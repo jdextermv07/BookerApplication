@@ -1,49 +1,39 @@
 package com.example.demo.model;
 
-import java.util.List;
-
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
-import javax.persistence.OneToMany;
 
 import com.fasterxml.jackson.annotation.JsonIdentityInfo;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.ObjectIdGenerators.PropertyGenerator;
 
 @Entity
-@JsonIdentityInfo(generator = PropertyGenerator.class, property = "serviceId")
-public class Service {
+@JsonIdentityInfo(generator = PropertyGenerator.class, property = "imageId")
+public class Image {
 
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
-	private int serviceId;
-	private String serviceName;
+	private int imageId;
 	private String description;
-	@OneToMany(mappedBy= "service")
-	private List<Image> images;
-	@JsonIgnore
+	private String imageUrl;
+	
 	@ManyToOne
 	@JoinColumn(name= "travelPackageid")
 	private TravelPackage travelPackage;
 	
+	@ManyToOne
+	@JoinColumn(name = "serviceId")
+	private Service service;
 	
-	
-	
-	public int getServiceId() {
-		return serviceId;
+	public int getImageId() {
+		return imageId;
 	}
-	public void setServiceId(int serviceId) {
-		this.serviceId = serviceId;
-	}
-	public String getServiceName() {
-		return serviceName;
-	}
-	public void setServiceName(String serviceName) {
-		this.serviceName = serviceName;
+	public void setImageId(int imageId) {
+		this.imageId = imageId;
 	}
 	public String getDescription() {
 		return description;
@@ -51,11 +41,11 @@ public class Service {
 	public void setDescription(String description) {
 		this.description = description;
 	}
-	public List<Image> getImages() {
-		return images;
+	public String getImageUrl() {
+		return imageUrl;
 	}
-	public void setImages(List<Image> images) {
-		this.images = images;
+	public void setImageUrl(String imageUrl) {
+		this.imageUrl = imageUrl;
 	}
 	
 	

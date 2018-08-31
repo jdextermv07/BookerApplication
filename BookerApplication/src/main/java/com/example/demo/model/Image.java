@@ -20,11 +20,11 @@ public class Image {
 	private int imageId;
 	private String description;
 	private String imageUrl;
-	
+	@JsonIgnore
 	@ManyToOne
 	@JoinColumn(name= "travelPackageid")
 	private TravelPackage travelPackage;
-	
+	@JsonIgnore
 	@ManyToOne
 	@JoinColumn(name = "serviceId")
 	private Service service;

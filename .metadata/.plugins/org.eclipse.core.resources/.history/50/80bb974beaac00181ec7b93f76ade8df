@@ -25,7 +25,6 @@ public class Service {
 	private String description;
 	@OneToMany(mappedBy= "service")
 	private List<Image> images;
-	@JsonIgnore
 	@ManyToOne
 	@JoinColumn(name= "travelPackageid")
 	private TravelPackage travelPackage;
