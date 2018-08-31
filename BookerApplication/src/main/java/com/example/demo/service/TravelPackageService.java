@@ -18,8 +18,6 @@ public class TravelPackageService {
 	private ServiceService serviceService;
 	private ImageService imageService;
 
-	
-
 	public TravelPackageService(TravelPackageRepository travelPackageRepository, ServiceService serviceService,
 			ImageService imageService) {
 		super();
@@ -41,17 +39,17 @@ public class TravelPackageService {
 	@Transactional
 	public List<TravelPackage> addTravelPackageList(List<TravelPackage> travelPackageList) {
 		List<TravelPackage> listTravelPackage = new ArrayList<TravelPackage>();
-		for (TravelPackage travelPackage : travelPackageList) {	
-			
+		for (TravelPackage travelPackage : travelPackageList) {
+
 			for (com.example.demo.model.Service service : travelPackage.getAvailableServiceList()) {
 				service.setTravelPackage(travelPackage);
 				serviceService.addServices(service);
-				
-				for(Image image : service.getImages()) {
+
+				for (Image image : service.getImages()) {
 					image.setService(service);
 					imageService.addImages(image);
 				}
-				for(Image image1 : travelPackage.getImages()) {
+				for (Image image1 : travelPackage.getImages()) {
 					image1.setTravelPackage(travelPackage);
 					imageService.addImages(travelPackage.getImages());
 				}
@@ -59,36 +57,70 @@ public class TravelPackageService {
 			travelPackageRepository.save(travelPackage);
 			listTravelPackage.add(travelPackage);
 		}
-	return listTravelPackage;
+		return listTravelPackage;
 	}
 
 	@Transactional
 	public List<TravelPackage> updateTravelPackageList(List<TravelPackage> travelPackageList) {
-		List<TravelPackage> listTravPack = new ArrayList<TravelPackage>();
-		for (TravelPackage value : travelPackageList) {
-			TravelPackage travPackTemp = travelPackageRepository.findById(value.getTravelpackageId()).get();
-			if (value.getTravelpackageId() == travPackTemp.getTravelpackageId()) {
-				
-				travelPackageRepository.save(value);
-				listTravPack.add(value);
+		List<TravelPackage> listTravelPackage = new ArrayList<TravelPackage>();
+		for (TravelPackage travelPackage : travelPackageList) {
+			TravelPackage travPackTemp = travelPackageRepository.findById(travelPackage.getTravelpackageId()).get();
+			if (travelPackage.getTravelpackageId() == travPackTemp.getTravelpackageId()) {
+				for (com.example.demo.model.Service service : travelPackage.getAvailableServiceList()) {
+
+					for (Image image : service.getImages()) {
+						image.setService(service);
+						imageService.addImages(image);
+					}
+
+					service.setTravelPackage(travelPackage);
+					serviceService.addServices(service);
+				}
+
+				for (Image image1 : travelPackage.getImages()) {
+					image1.setTravelPackage(travelPackage);
+					imageService.addImages(image1);
+				}
+				travelPackageRepository.save(travelPackage);
+				listTravelPackage.add(travelPackage);
 			} else {
-				System.out.println("Invalid");
+				System.out.println("Failed");
 			}
 		}
-		return listTravPack;
+		return listTravelPackage;
 	}
-	
-	public void deleteTravelPackageList(int [] intArray) {
+
+	public void deleteTravelPackageList(int[] intArray) {
 		for (int value : intArray) {
-			travelPackageRepository.delete(travelPackageRepository.findById(value).get());
+			TravelPackage travelPackTemp = travelPackageRepository.findById(value).get();
+			for(com.example.demo.model.Service service : travelPackTemp.getAvailableServiceList()) {
+				
+				for (Image image : service.getImages()) {
+					imageService.deleteImages(image);
+				}
+				for (Image image1 : travelPackTemp.getImages()) {
+					imageService.deleteImages(image1);
+				}
+				serviceService.deleteServices(service);
+			}
+			travelPackageRepository.delete(travelPackTemp);
 		}
 
 	}
-	
 
-	// travel package
+	// travel package travelPackageRepository.delete(
 
 	public void deleteTravelPackage(TravelPackage travelPackage) {
+		for(com.example.demo.model.Service service : travelPackage.getAvailableServiceList()) {
+			
+			for (Image image : service.getImages()) {
+				imageService.deleteImages(image);
+			}
+			for (Image image1 : travelPackage.getImages()) {
+				imageService.deleteImages(image1);
+			}
+			serviceService.deleteServices(service);
+		}
 		travelPackageRepository.delete(travelPackage);
 	}
 

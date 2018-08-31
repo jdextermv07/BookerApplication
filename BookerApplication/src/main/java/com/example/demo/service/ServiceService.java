@@ -33,4 +33,8 @@ public class ServiceService {
 	public Service addServices(Service service) {
 		return serviceRepository.save(service);
 	}
+	
+	public void deleteServices(Service service) {
+		serviceRepository.delete(service);
+	}
 }

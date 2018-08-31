@@ -15,7 +15,6 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.ObjectIdGenerators.PropertyGenerator;
 
 @Entity
-@JsonIdentityInfo(generator = PropertyGenerator.class, property = "serviceId")
 public class Service {
 
 	@Id
