@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<bean id = "travelPackageRepositoryList" class = "com.pw.io.booker.repository.list.TravelPackageRepositoryList">
+</bean>
+
+<bean id = "travelPackageService" class = "com.pw.io.booker.service.TravelPackageService">
+<constructor-arg name = "travelPackageRepositoryList" ref = "travelPackageRepositoryList">
+</constructor-arg>
+</bean>
+
+<bean id = "travelItemRepositoryList" class = "com.pw.io.booker.repository.list.TravelItemRepositoryList">
+</bean>
+
+<bean id = "reservationRepositoryList" class = "com.pw.io.booker.repository.list.ReservationRepositoryList">
+</bean>
+
+<bean id = "reservationService" class = "com.pw.io.booker.service.ReservationService">
+<constructor-arg name = "reservationRepositoryList" ref = "reservationRepositoryList" >
+</constructor-arg>
+<constructor-arg name = "travelPackageService" ref = "travelPackageService"></constructor-arg>
+</bean>
+
+<bean id = "travelItemService" class = "com.pw.io.booker.service.TravelItemService">
+<constructor-arg name = "travelItemRepositoryList" ref = "travelItemRepositoryList"></constructor-arg>
+</bean>
+
+<bean id = "bookerServiceUtil" class = "com.pw.io.booker.util.BookerServiceUtil">
+<constructor-arg name = "travelItemRepositoryList" ref = "travelItemRepositoryList"></constructor-arg>
+<constructor-arg name = "travelPackageRepositoryList" ref = "travelPackageRepositoryList"></constructor-arg>
+</bean>
+
+</beans>

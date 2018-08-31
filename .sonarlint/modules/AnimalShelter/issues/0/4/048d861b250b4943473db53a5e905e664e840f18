@@ -1,0 +1,4 @@
+
+¤"squid:ClassVariableVisibilityCheck"VMake animalName a static final constant or non-public and provide accessors if needed.(·‹žÜ8ö˜ë”Ó,H	RMINORZVULNERABILITY
+¦"squid:ClassVariableVisibilityCheck"XMake animalGender a static final constant or non-public and provide accessors if needed.(Ö¨™±8ö˜ë”Ó,H’	RMINORZVULNERABILITY
+£"squid:ClassVariableVisibilityCheck"UMake animalAge a static final constant or non-public and provide accessors if needed.(È¾®Æ8ö˜ë”Ó,H‘	RMINORZVULNERABILITY

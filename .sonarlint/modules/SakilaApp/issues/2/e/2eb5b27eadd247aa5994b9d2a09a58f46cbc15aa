@@ -1,0 +1,74 @@
+
+q
+squid:S106}"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8ı„ò¥Õ,H”'RMAJORZ
+CODE_SMELL
+r
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8ı„ò¥Õ,H•'RMAJORZ
+CODE_SMELL
+nsquid:S1854":Remove this useless assignment to local variable "toNext".(Ú­ÎÇ8¤Ë¾ªÔ,H–'RMAJORZ
+CODE_SMELL
+_squid:S1481@"+Remove this unused "toNext" local variable.(Ú­ÎÇ8ò¶¶Ô,H—'RMINORZ
+CODE_SMELL
+osquid:S1854":Remove this useless assignment to local variable "toNext".(±¶±…8åâÍºÔ,H˜'RMAJORZ
+CODE_SMELL
+r
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8ı„ò¥Õ,H™'RMAJORZ
+CODE_SMELL
+q
+squid:S106U"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8ı„ò¥Õ,Hš'RMAJORZ
+CODE_SMELL
+r
+squid:S106È"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8ı„ò¥Õ,H›'RMAJORZ
+CODE_SMELL
+nsquid:S1854f":Remove this useless assignment to local variable "toNext".(±¶±…8†ã «Ô,Hœ'RMAJORZ
+CODE_SMELL
+q
+squid:S106-"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8ı„ò¥Õ,H'RMAJORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È©Ğçşÿÿÿÿ8†õàºÔ,H'RMINORZ
+CODE_SMELL
+zsquid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Å¬ÍÄûÿÿÿÿ8†ã «Ô,HŸ'RBLOCKERZBUG
+…squid:S1192,"ODefine a constant instead of duplicating this literal "File not found" 5 times.(ıï©=8ı„ò¥Õ,H 'RCRITICALZ
+CODE_SMELL
+ysquid:S2095e"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Å¬ÍÄûÿÿÿÿ8åâÍºÔ,H¡'RBLOCKERZBUG
+squid:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀÀ¼I8†ã «Ô,H¢'RMINORZ
+CODE_SMELL
+_squid:S1481f"+Remove this unused "toNext" local variable.(±¶±…8åâÍºÔ,H£'RMINORZ
+CODE_SMELL
+’squid:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(È©Ğçşÿÿÿÿ8¤Ë¾ªÔ,H¤'RMINORZ
+CODE_SMELL
+…squid:UselessImportCheck"?Remove this unused import 'com.pointwest.sakila.bean.FilmBean'.(´÷íÚşÿÿÿÿ8—Ö´ªÔ,H¥'RMINORZ
+CODE_SMELL
+osquid:S1854³":Remove this useless assignment to local variable "toNext".(Ú­ÎÇ8ò¶¶Ô,H¦'RMAJORZ
+CODE_SMELL
+_squid:S1481"+Remove this unused "toNext" local variable.(Ú­ÎÇ8—Ö´ªÔ,H§'RMINORZ
+CODE_SMELL
+`squid:S1481³"+Remove this unused "toNext" local variable.(Ú­ÎÇ8†õàºÔ,H¨'RMINORZ
+CODE_SMELL
+“squid:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(È©Ğçşÿÿÿÿ8ò¶¶Ô,H©'RMINORZ
+CODE_SMELL
+squid:S1192"SDefine a constant instead of duplicating this literal "customer-table.txt" 3 times.(á¿°İùÿÿÿÿ8†õàºÔ,Hª'RCRITICALZ
+CODE_SMELL
+Œsquid:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀÀ¼I8åâÍºÔ,H«'RMINORZ
+CODE_SMELL
+tsquid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(­§Ì8†õàºÔ,H¬'RBLOCKERZBUG
+r
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8ı„ò¥Õ,H­'RMAJORZ
+CODE_SMELL
+q
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8ı„ò¥Õ,H®'RMAJORZ
+CODE_SMELL
+squid:S1192-"SDefine a constant instead of duplicating this literal "An error occurred" 15 times.(«İïúÿÿÿÿ8ı„ò¥Õ,H¯'RCRITICALZ
+CODE_SMELL
+usquid:S2095²"EUse try-with-resources or close this "Scanner" in a "finally" clause.(­§Ì8ò¶¶Ô,H°'RBLOCKERZBUG
+q
+squid:S1061"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8ı„ò¥Õ,H±'RMAJORZ
+CODE_SMELL
+nsquid:S1854@":Remove this useless assignment to local variable "toNext".(Ú­ÎÇ8†õàºÔ,H²'RMAJORZ
+CODE_SMELL
+tsquid:S2095?"EUse try-with-resources or close this "Scanner" in a "finally" clause.(­§Ì8—Ö´ªÔ,H³'RBLOCKERZBUG
+q
+squid:S106y"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8ı„ò¥Õ,H´'RMAJORZ
+CODE_SMELL
+`squid:S1481"+Remove this unused "toNext" local variable.(±¶±…8¤Ë¾ªÔ,Hµ'RMINORZ
+CODE_SMELL

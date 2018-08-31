@@ -1,0 +1,8 @@
+
+}squid:UselessImportCheck"<Remove this unused import 'com.example.demo.model.Customer'.(”Å¨ø8¿é®ÏØ,HäARMINORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÑ¨Åùÿÿÿÿ8Á£ûÎØ,HÒARMINORZ
+CODE_SMELL
+isquid:S3655-"7Call "Optional#isPresent()" before accessing the value.(ØãË‹úÿÿÿÿ8®ù¬ÏØ,HáARMAJORZBUG
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÑ¨Åùÿÿÿÿ8Á£ûÎØ,HÓARMINORZ
+CODE_SMELL

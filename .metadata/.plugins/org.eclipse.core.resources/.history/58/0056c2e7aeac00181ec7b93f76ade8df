@@ -1,0 +1,16 @@
+package com.example.demo.service;
+
+import com.example.demo.repository.ServiceRepository;
+
+public class ServiceService {
+	
+	private ServiceRepository serviceRepository;
+
+	public ServiceService(ServiceRepository serviceRepository) {
+		super();
+		this.serviceRepository = serviceRepository;
+	}
+	
+	
+
+}

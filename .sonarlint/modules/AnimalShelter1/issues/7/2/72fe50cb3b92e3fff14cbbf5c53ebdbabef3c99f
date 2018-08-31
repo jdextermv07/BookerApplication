@@ -1,0 +1,13 @@
+
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ฑ€ุ๚ÿÿÿÿ8Ýำนำ,HีRMINORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(—ี8Ýำนำ,HึRMINORZ
+CODE_SMELL
+ksquid:S1444"/Make this "public static animalMap" field final(ฑ€ุ๚ÿÿÿÿ8Ýำนำ,HืRMINORZVULNERABILITY
+gsquid:S1444"0Make this "public static animalList" field final(—ี8Ýำนำ,HุRMINORZVULNERABILITY
+จ"squid:ClassVariableVisibilityCheck"UMake animalMap a static final constant or non-public and provide accessors if needed.(ฑ€ุ๚ÿÿÿÿ8Ýำนำ,HูRMINORZVULNERABILITY
+ค"squid:ClassVariableVisibilityCheck"VMake animalList a static final constant or non-public and provide accessors if needed.(—ี8Ýำนำ,HฺRMINORZVULNERABILITY
+msquid:S1118	":Add a private constructor to hide the implicit public one.(ึ€T8Ýำนำ,HÛRMAJORZ
+CODE_SMELL
+Ysquid:S2386"Make this member "protected".(ฑ€ุ๚ÿÿÿÿ8Ýำนำ,HÜRMINORZVULNERABILITY
+Tsquid:S2386"Make this member "protected".(—ี8Ýำนำ,HÝRMINORZVULNERABILITY

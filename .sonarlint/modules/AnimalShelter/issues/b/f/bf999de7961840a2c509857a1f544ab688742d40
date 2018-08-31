@@ -1,0 +1,5 @@
+
+csquid:S1481"*Remove this unused "input" local variable.(Úî¿òøÿÿÿÿ8¬ïÀ°Ó,HÊRMINORZ
+CODE_SMELL
+rsquid:S1854"9Remove this useless assignment to local variable "input".(Úî¿òøÿÿÿÿ8¬ïÀ°Ó,HËRMAJORZ
+CODE_SMELL

@@ -1,0 +1,12 @@
+package com.pw.io.booker;
+
+@SpringBootAplication (scanBasePackage = {"com.pw.io.booker.repository", "com.pw.io.booker.util", "com.pw.io.config"})
+
+public class BookerServiceSpringApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

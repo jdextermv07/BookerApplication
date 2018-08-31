@@ -1,0 +1,604 @@
+ADDRESS_ID|ADDRESS|DISTRICT|CITY|COUNTRY
+267|816 Cayenne Parkway|Manab|Portoviejo|Ecuador
+50|46 Pjatigorsk Lane|Moscow (City)|Moscow|Russian Federation
+121|1967 Sincelejo Place|Gujarat|Gandhinagar|India
+213|43 Dadu Avenue|Rajasthan|Bhilwara|India
+16|808 Bhopal Manor|Haryana|Yamuna Nagar|India
+231|430 Alessandria Loop|Saarland|Saarbrcken|Germany
+396|767 Pyongyang Drive|Osaka|Izumisano|Japan
+137|261 Saint Louis Way|Coahuila de Zaragoza|Torren|Mexico
+105|733 Mandaluyong Place|Asir|Abha|Saudi Arabia
+378|1191 Tandil Drive|Southern Tagalog|Tanauan|Philippines
+459|251 Florencia Drive|Michoacn de Ocampo|Uruapan|Mexico
+132|1050 Garden Grove Avenue|Slaskie|Jastrzebie-Zdrj|Poland
+66|1717 Guadalajara Lane|Missouri|Saint Louis|United States
+52|909 Garland Manor|Tatarstan|Niznekamsk|Russian Federation
+75|492 Cam Ranh Street|Eastern Visayas|Baybay|Philippines
+10|1795 Santiago de Compostela Way|Texas|Laredo|United States
+571|1746 Faaa Way|Huanuco|Hunuco|Peru
+457|535 Ahmadnagar Manor|Abu Dhabi|Abu Dhabi|United Arab Emirates
+12|478 Joliet Way|Hamilton|Hamilton|New Zealand
+335|587 Benguela Manor|Illinois|Aurora|United States
+198|345 Oshawa Boulevard|Tokyo-to|Hino|Japan
+33|786 Aurora Avenue|Yamaguchi|Shimonoseki|Japan
+268|1831 Nam Dinh Loop|National Capital Reg|Mandaluyong|Philippines
+148|1027 Songkhla Manor|Minsk|Molodetno|Belarus
+496|775 ostka Drive|al-Daqahliya|Mit Ghamr|Egypt
+2|28 MySQL Boulevard|QLD|Woodridge|Australia
+64|81 Hodeida Way|Rajasthan|Jaipur|India
+81|1692 Ede Loop|So Paulo|Araatuba|Brazil
+360|619 Hunuco Avenue|Shimane|Matsue|Japan
+115|1378 Alvorada Avenue|Distrito Federal|Caracas|Venezuela
+141|1749 Daxian Place|Gelderland|Apeldoorn|Netherlands
+288|226 Halifax Street|Xinxiang|Korla|China
+61|943 Tokat Street|Vaduz|Vaduz|Liechtenstein
+176|29 Pyongyang Loop|Batman|Batman|Turkey
+404|734 Bchar Place|Punjab|Okara|Pakistan
+422|289 Santo Andr Manor|al-Sharqiya|al-Qatif|Saudi Arabia
+24|1688 Okara Way|Nothwest Border Prov|Mardan|Pakistan
+194|605 Rio Claro Parkway|Tabora|Tabora|Tanzania
+264|1027 Banjul Place|West Bengali|Halisahar|India
+498|319 Plock Parkway|Istanbul|Sultanbeyli|Turkey
+403|1190 0 Place|Rio Grande do Sul|Bag|Brazil
+452|207 Cuernavaca Loop|Tatarstan|Nabereznyje Telny|Russian Federation
+299|32 Pudukkottai Lane|Ohio|Dayton|United States
+123|1987 Coacalco de Berriozbal Loop|al-Qalyubiya|Shubra al-Khayma|Egypt
+174|1877 Ezhou Lane|Rajasthan|Udaipur|India
+54|115 Hidalgo Parkway|Khartum|Omdurman|Sudan
+406|454 Patiala Lane|Fukushima|Koriyama|Japan
+103|588 Vila Velha Manor|Kyongsangbuk|Kimchon|South Korea
+430|355 Vitria de Santo Anto Way|Oaxaca|San Juan Bautista Tuxtepec|Mexico
+3|23 Workhaven Lane|Alberta|Lethbridge|Canada
+540|949 Allende Lane|Uttar Pradesh|Amroha|India
+412|1639 Saarbrcken Drive|North West|Rustenburg|South Africa
+290|1336 Benin City Drive|Shiga|Otsu|Japan
+576|1351 Sousse Lane|Coahuila de Zaragoza|Monclova|Mexico
+260|127 Iwakuni Boulevard|Central Luzon|Hagonoy|Philippines
+218|226 Brest Manor|California|Sunnyvale|United States
+557|1407 Pachuca de Soto Place|Rio Grande do Sul|Alvorada|Brazil
+47|1447 Imus Way|Tahiti|Faaa|French Polynesia
+289|1279 Udine Parkway|Edo & Delta|Benin City|Nigeria
+359|519 Nyeri Manor|So Paulo|Santo Andr|Brazil
+15|1542 Tarlac Parkway|Kanagawa|Sagamihara|Japan
+62|1114 Liepaja Street|Sarawak|Kuching|Malaysia
+191|140 Chiayi Parkway|Sumy|Sumy|Ukraine
+120|544 Malm Parkway|Central Java|Pemalang|Indonesia
+284|600 Bradford Street|East Azerbaidzan|Tabriz|Iran
+600|1837 Kaduna Parkway|Inner Mongolia|Jining|China
+42|269 Cam Ranh Parkway|Chisinau|Chisinau|Moldova
+138|765 Southampton Drive|al-Qalyubiya|Qalyub|Egypt
+13|613 Korolev Drive|Masqat|Masqat|Oman
+183|1089 Iwatsuki Avenue|Kirov|Kirovo-Tepetsk|Russian Federation
+484|98 Pyongyang Boulevard|Ohio|Akron|United States
+561|1497 Fengshan Drive|KwaZulu-Natal|Chatsworth|South Africa
+8|1566 Inegl Manor|Mandalay|Myingyan|Myanmar
+411|264 Bhimavaram Manor|St Thomas|Charlotte Amalie|Virgin Islands, U.S.
+491|1789 Saint-Denis Parkway|Coahuila de Zaragoza|Acua|Mexico
+202|955 Bamenda Way|Ondo & Ekiti|Ikerre|Nigeria
+463|935 Aden Boulevard|Central Java|Tegal|Indonesia
+272|1762 Paarl Parkway|Hunan|Lengshuijiang|China
+250|829 Grand Prairie Way|Paran|Maring|Brazil
+534|486 Ondo Parkway|Benguela|Benguela|Angola
+244|1148 Saarbrcken Parkway|Fukushima|Iwaki|Japan
+344|1909 Benguela Lane|Henan|Xinxiang|China
+95|1370 Le Mans Avenue|Brunei and Muara|Bandar Seri Begawan|Brunei
+200|1074 Binzhou Manor|Baden-Wrttemberg|Mannheim|Germany
+80|602 Paarl Street|Pavlodar|Pavlodar|Kazakstan
+365|1009 Zanzibar Lane|Arecibo|Arecibo|Puerto Rico
+475|434 Ourense (Orense) Manor|Hodeida|Hodeida|Yemen
+515|886 Tonghae Place|Volgograd|Kamyin|Russian Federation
+89|1557 Ktahya Boulevard|England|Bradford|United Kingdom
+39|391 Callao Drive|Midi-Pyrnes|Toulouse|France
+219|1229 Valencia Parkway|Haskovo|Stara Zagora|Bulgaria
+522|1768 Udine Loop|Battambang|Battambang|Cambodia
+340|507 Smolensk Loop|Sousse|Sousse|Tunisia
+368|1658 Jastrzebie-Zdrj Loop|Central|Nyeri|Kenya
+523|608 Birgunj Parkway|Taipei|Chungho|Taiwan
+247|1483 Pathankot Street|Tucumn|San Miguel de Tucumn|Argentina
+366|114 Jalib al-Shuyukh Manor|Centre|Yaound|Cameroon
+134|758 Junan Lane|Gois|guas Lindas de Gois|Brazil
+539|1332 Gaziantep Lane|Shandong|Binzhou|China
+70|1150 Kimchon Manor|Skne ln|Malm|Sweden
+167|1287 Xiangfan Boulevard|Gifu|Kakamigahara|Japan
+373|1922 Miraj Way|Esfahan|Najafabad|Iran
+329|867 Benin City Avenue|Henan|Yuzhou|China
+533|556 Asuncin Way|Mogiljov|Mogiljov|Belarus
+293|86 Higashiosaka Lane|Guanajuato|Valle de Santiago|Mexico
+318|1774 Yaound Place|Hubei|Ezhou|China
+601|844 Bucuresti Place|Liaoning|Jinzhou|China
+361|45 Aparecida de Goinia Place|Madhya Pradesh|Satna|India
+499|1954 Kowloon and New Kowloon Way|Chimborazo|Robamba|Ecuador
+56|939 Probolinggo Loop|Galicia|A Corua (La Corua)|Spain
+567|1894 Boa Vista Way|Texas|Garland|United States
+385|1642 Charlotte Amalie Drive|Slaskie|Tychy|Poland
+226|810 Palghat (Palakkad) Boulevard|Jaroslavl|Jaroslavl|Russian Federation
+162|369 Papeete Way|North Carolina|Greensboro|United States
+302|922 Vila Velha Loop|Maharashtra|Ahmadnagar|India
+145|928 Jaffna Loop|Hiroshima|Fukuyama|Japan
+461|1889 Valparai Way|Ziguinchor|Ziguinchor|Senegal
+389|500 Lincoln Parkway|Jiangsu|Huaian|China
+166|1740 Le Mans Loop|Pays de la Loire|Le Mans|France
+114|804 Elista Drive|Hubei|Enshi|China
+356|1378 Beira Loop|Krasnojarsk|Zeleznogorsk|Russian Federation
+59|1697 Kowloon and New Kowloon Loop|Moskova|Balaiha|Russian Federation
+444|231 Kaliningrad Place|Lombardia|Bergamo|Italy
+224|1842 Luzinia Boulevard|Zanzibar West|Zanzibar|Tanzania
+294|1912 Allende Manor|Kowloon and New Kowl|Kowloon and New Kowloon|Hong Kong
+298|44 Najafabad Way|Baskimaa|Donostia-San Sebastin|Spain
+144|1666 Beni-Mellal Place|Tennessee|Clarksville|United States
+372|230 Urawa Drive|Andhra Pradesh|Adoni|India
+490|1909 Dayton Avenue|Guangdong|Shaoguan|China
+353|381 Kabul Way|Taipei|Hsichuh|Taiwan
+319|1957 Yantai Lane|So Paulo|Sorocaba|Brazil
+74|1124 Buenaventura Drive|Mekka|al-Hawiya|Saudi Arabia
+240|1479 Rustenburg Boulevard|Southern Tagalog|Tanza|Philippines
+211|850 Salala Loop|Kitaa|Nuuk|Greenland
+17|270 Amroha Parkway|Osmaniye|Osmaniye|Turkey
+413|692 Amroha Drive|Northern|Jaffna|Sri Lanka
+128|848 Tafuna Manor|Ktahya|Ktahya|Turkey
+193|891 Novi Sad Manor|Ontario|Oshawa|Canada
+34|1668 Anpolis Street|Taipei|Lungtan|Taiwan
+548|1658 Cuman Loop|Sumatera Selatan|Pangkal Pinang|Indonesia
+525|1949 Sanya Street|Gumma|Isesaki|Japan
+251|1473 Changhwa Parkway|Mxico|Coacalco de Berriozbal|Mexico
+477|1786 Salinas Place|Nam Ha|Nam Dinh|Vietnam
+266|862 Xintai Lane|Cagayan Valley|Tuguegarao|Philippines
+323|1769 Iwaki Lane|Kujawsko-Pomorskie|Bydgoszcz|Poland
+352|1673 Tangail Drive|Daugavpils|Daugavpils|Latvia
+110|1867 San Juan Bautista Tuxtepec Avenue|Ivanovo|Ivanovo|Russian Federation
+364|1623 Kingstown Drive|Buenos Aires|Almirante Brown|Argentina
+546|191 Jos Azueta Parkway|Ruse|Ruse|Bulgaria
+188|741 Ambattur Manor|Noord-Brabant|s-Hertogenbosch|Netherlands
+460|659 Gatineau Boulevard|La Paz|El Alto|Bolivia
+420|992 Klerksdorp Loop|Utrecht|Amersfoort|Netherlands
+21|270 Toulon Boulevard|Kalmykia|Elista|Russian Federation
+519|962 Tama Loop||Yangor|Nauru
+303|898 Jining Lane|Pohjois-Pohjanmaa|Oulu|Finland
+69|698 Otsu Street|Cayenne|Cayenne|French Guiana
+85|320 Baiyin Parkway|Mahajanga|Mahajanga|Madagascar
+591|773 Dallas Manor|Buenos Aires|Quilmes|Argentina
+450|203 Tambaram Street|Buenos Aires|Escobar|Argentina
+572|539 Hami Way|Tokat|Tokat|Turkey
+216|660 Jedda Boulevard|Washington|Bellevue|United States
+256|1497 Yuzhou Drive|England|London|United Kingdom
+71|1586 Guaruj Place|Hunan|Xiangtan|China
+386|1368 Maracabo Boulevard||South Hill|Anguilla
+462|1485 Bratislava Place|Illinois|Rockford|United States
+76|89 Allappuzha (Alleppey) Manor|National Capital Reg|Taguig|Philippines
+451|1704 Tambaram Manor|West Bengali|Uluberia|India
+31|217 Botshabelo Place|Southern Mindanao|Davao|Philippines
+476|270 Tambaram Parkway|Gauteng|Johannesburg|South Africa
+300|661 Chisinau Lane|Pietari|Kolpino|Russian Federation
+447|105 Dzerzinsk Manor|Inner Mongolia|Tongliao|China
+214|751 Lima Loop|Aden|Aden|Yemen
+314|1224 Huejutla de Reyes Boulevard|Lombardia|Brescia|Italy
+478|1078 Stara Zagora Drive|Aceh|Lhokseumawe|Indonesia
+593|1402 Zanzibar Boulevard|Guanajuato|Celaya|Mexico
+236|885 Yingkou Manor|Kaduna|Zaria|Nigeria
+367|1163 London Parkway|Par|Belm|Brazil
+30|18 Duisburg Boulevard||Citt del Vaticano|Holy See (Vatican City State)
+28|96 Tafuna Way|Crdoba|Crdoba|Argentina
+481|1153 Allende Way|Qubec|Gatineau|Canada
+275|906 Goinia Way|Wielkopolskie|Kalisz|Poland
+127|117 Boa Vista Way|Uttar Pradesh|Varanasi (Benares)|India
+325|1892 Nabereznyje Telny Lane|Tutuila|Tafuna|American Samoa
+383|686 Donostia-San Sebastin Lane|Guangdong|Shenzhen|China
+577|1501 Pangkal Pinang Avenue|Mazowieckie|Plock|Poland
+492|185 Mannheim Lane|Stavropol|Pjatigorsk|Russian Federation
+483|632 Usolje-Sibirskoje Parkway|Ha Darom|Ashqelon|Israel
+96|984 Effon-Alaiye Avenue|Gois|Goinia|Brazil
+509|786 Matsue Way|Illinois|Joliet|United States
+222|1168 Najafabad Parkway|Kabol|Kabul|Afghanistan
+126|1175 Tanauan Way|Lima|Lima|Peru
+536|166 Jinchang Street|Buenos Aires|Ezeiza|Argentina
+602|1101 Bucuresti Boulevard|West Greece|Patras|Greece
+354|953 Hodeida Street|Southern Tagalog|Imus|Philippines
+23|1417 Lancaster Avenue|Northern Cape|Kimberley|South Africa
+220|1201 Qomsheh Manor|Gois|Aparecida de Goinia|Brazil
+108|1386 Yangor Avenue|Provence-Alpes-Cte|Toulon|France
+104|1913 Kamakura Place|Lipetsk|Jelets|Russian Federation
+9|53 Idfu Parkway|Nantou|Nantou|Taiwan
+203|1149 A Corua (La Corua) Boulevard|Haiphong|Haiphong|Vietnam
+5|1913 Hanoi Way|Nagasaki|Sasebo|Japan
+102|669 Firozabad Loop|Abu Dhabi|al-Ayn|United Arab Emirates
+41|1440 Fukuyama Loop|Henan|Nanyang|China
+199|1792 Valle de la Pascua Place|Nordrhein-Westfalen|Siegen|Germany
+286|1308 Sumy Loop|Fujian|Fuzhou|China
+589|1584 Ljubertsy Lane|England|Southampton|United Kingdom
+564|505 Madiun Boulevard|Dolnoslaskie|Wroclaw|Poland
+343|1443 Mardan Street|Western Cape|Paarl|South Africa
+472|1447 Chatsworth Place|Chihuahua|Cuauhtmoc|Mexico
+45|42 Brindisi Place|Yerevan|Yerevan|Armenia
+72|57 Arlington Manor|Madhya Pradesh|Shivapuri|India
+382|220 Hidalgo Drive|Kermanshah|Kermanshah|Iran
+201|817 Bradford Loop|Jiangsu|Changzhou|China
+408|990 Etawah Loop|Tamil Nadu|Valparai|India
+133|1854 Tieli Street|Shandong|Liaocheng|China
+351|1157 Nyeri Loop|Adygea|Maikop|Russian Federation
+587|760 Miyakonojo Drive|Guerrero|Jos Azueta|Mexico
+597|32 Liaocheng Way|Minas Gerais|Juiz de Fora|Brazil
+445|495 Bhimavaram Lane|Maharashtra|Dhule (Dhulia)|India
+339|503 Sogamoso Loop|Sumqayit|Sumqayit|Azerbaijan
+377|154 Oshawa Manor|East Java|Probolinggo|Indonesia
+48|1998 Halifax Drive|Lipetsk|Lipetsk|Russian Federation
+436|287 Cuautla Boulevard|Chuquisaca|Sucre|Bolivia
+177|1010 Klerksdorp Way|Steiermark|Graz|Austria
+510|48 Maracabo Place|Central Luzon|Talavera|Philippines
+501|1060 Tandil Lane|Shandong|Rizhao|China
+393|717 Changzhou Lane|Southern Tagalog|Cavite|Philippines
+418|126 Acua Parkway|West Bengali|Berhampore (Baharampur)|India
+508|496 Celaya Drive|Nagano|Ueda|Japan
+204|387 Mwene-Ditu Drive|Ahal|Ashgabat|Turkmenistan
+311|715 So Bernardo do Campo Lane|Kedah|Sungai Petani|Malaysia
+376|1061 Ede Avenue|Southern Tagalog|Cabuyao|Philippines
+154|781 Shimonoseki Drive|Michoacn de Ocampo|Hidalgo|Mexico
+192|1166 Changhwa Street|Caraga|Bayugan|Philippines
+207|1688 Nador Lane|Sulawesi Utara|Gorontalo|Indonesia
+221|866 Shivapuri Manor|Uttar Pradesh|Sambhal|India
+425|1866 al-Qatif Avenue|California|El Monte|United States
+184|1410 Benin City Parkway|Risaralda|Pereira|Colombia
+26|28 Charlotte Amalie Street|Rabat-Sal-Zammour-Z|Sal|Morocco
+541|195 Ilorin Street|Chari-Baguirmi|NDjamna|Chad
+25|262 A Corua (La Corua) Parkway|Dhaka|Tangail|Bangladesh
+594|1464 Kursk Parkway|Shandong|Weifang|China
+172|475 Atinsk Way|Gansu|Jinchang|China
+552|390 Wroclaw Way|Hainan|Sanya|China
+291|1155 Liaocheng Place|Oyo & Osun|Effon-Alaiye|Nigeria
+349|1516 Escobar Drive|Tongatapu|Nukualofa|Tonga
+568|1342 Sharja Way|Sokoto & Kebbi & Zam|Sokoto|Nigeria
+398|954 Lapu-Lapu Way|Moskova|Korolev|Russian Federation
+514|1747 Rustenburg Place|Bihar|Chapra|India
+131|801 Hagonoy Drive|Smolensk|Smolensk|Russian Federation
+554|947 Trshavn Place|Central Luzon|Tarlac|Philippines
+511|1152 al-Qatif Lane|Kalimantan Barat|Pontianak|Indonesia
+51|686 Garland Manor|Cear|Juazeiro do Norte|Brazil
+502|1515 Korla Way|England|York|United Kingdom
+550|1715 Okayama Street|So Paulo|So Bernardo do Campo|Brazil
+55|1135 Izumisano Parkway|California|Fontana|United States
+560|1447 Imus Place|Gujarat|Rajkot|India
+20|360 Toulouse Parkway|England|Southend-on-Sea|United Kingdom
+371|1912 Emeishan Drive|Balikesir|Balikesir|Turkey
+35|33 Gorontalo Way|West Bengali|Kamarhati|India
+474|1469 Plock Lane|Galicia|Ourense (Orense)|Spain
+348|785 Vaduz Street|Baja California|Mexicali|Mexico
+37|127 Purnea (Purnia) Manor|Piemonte|Alessandria|Italy
+106|659 Vaduz Drive|Ha Darom|Ashdod|Israel
+434|1404 Taguig Drive|Okayama|Tsuyama|Japan
+196|9 San Miguel de Tucumn Manor|Uttar Pradesh|Firozabad|India
+433|1823 Hoshiarpur Lane|Komi|Syktyvkar|Russian Federation
+464|76 Kermanshah Manor|Esfahan|Qomsheh|Iran
+400|1152 Citrus Heights Manor|al-Qadarif|al-Qadarif|Sudan
+517|548 Uruapan Street|Ontario|London|United Kingdom
+249|300 Junan Street|Kyonggi|Uijongbu|South Korea
+330|981 Kumbakonam Place|Distrito Federal|Braslia|Brazil
+187|1839 Szkesfehrvr Parkway|Gois|Luzinia|Brazil
+375|1049 Matamoros Parkway|Karnataka|Gulbarga|India
+301|951 Stara Zagora Manor|Punjab|Patiala|India
+448|614 Denizli Parkway|Rio Grande do Sul|So Leopoldo|Brazil
+438|596 Huixquilucan Place|Nampula|Naala-Porto|Mozambique
+313|1191 Sungai Petani Boulevard|Missouri|Kansas City|United States
+473|1257 Guadalajara Street|Karnataka|Bijapur|India
+125|211 Chiayi Drive|Uttar Pradesh|Etawah|India
+470|1088 Ibirit Place|Jalisco|Zapopan|Mexico
+239|98 Stara Zagora Boulevard|Valle|Buenaventura|Colombia
+111|1532 Dzerzinsk Way|Buenos Aires|Merlo|Argentina
+553|1421 Quilmes Lane|Ishikawa|Kanazawa|Japan
+229|1014 Loja Manor|Tamil Nadu|Ambattur|India
+320|1542 Lubumbashi Boulevard|Tel Aviv|Bat Yam|Israel
+394|753 Ilorin Avenue|Sichuan|Emeishan|China
+551|182 Nukualofa Drive|Sumy|Konotop|Ukraine
+217|1001 Miyakonojo Lane|Taizz|Taizz|Yemen
+334|1816 Bydgoszcz Loop|Dhaka|Jamalpur|Bangladesh
+341|1920 Weifang Avenue|Uttar Pradesh|Rampur|India
+78|1206 Dos Quebradas Place|So Paulo|Rio Claro|Brazil
+527|1993 0 Loop|Liaoning|Yingkou|China
+310|913 Coacalco de Berriozbal Loop|Texas|Arlington|United States
+292|1993 Tabuk Lane|Tamil Nadu|Tambaram|India
+397|614 Pak Kret Street|Addis Abeba|Addis Abeba|Ethiopia
+456|814 Simferopol Loop|Sinaloa|El Fuerte|Mexico
+369|817 Laredo Avenue|Jalisco|Guadalajara|Mexico
+384|97 Mogiljov Lane|Gujarat|Bhavnagar|India
+14|1531 Sal Drive|Esfahan|Esfahan|Iran
+269|446 Kirovo-Tepetsk Lane|Osaka|Higashiosaka|Japan
+429|1269 Botosani Manor|Guangdong|Shanwei|China
+159|185 Novi Sad Place|Bern|Bern|Switzerland
+524|680 A Corua (La Corua) Manor|Sivas|Sivas|Turkey
+163|1440 Compton Place|North Austria|Linz|Austria
+150|879 Newcastle Way|Michigan|Sterling Heights|United States
+431|1596 Acua Parkway|Jharkhand|Purnea (Purnia)|India
+241|647 A Corua (La Corua) Street|Chollanam|Naju|South Korea
+189|927 Barcelona Street|Chaharmahal va Bakht|Shahr-e Kord|Iran
+124|241 Mosul Lane|Risaralda|Dos Quebradas|Colombia
+142|1587 Sullana Lane|Inner Mongolia|Hohhot|China
+521|568 Dhule (Dhulia) Loop|Coquimbo|Coquimbo|Chile
+405|530 Lausanne Lane|Texas|Dallas|United States
+427|1557 Cape Coral Parkway|Hubei|Laohekou|China
+336|430 Kumbakonam Drive|Santa F|Santa F|Argentina
+381|1618 Olomouc Manor|Kurgan|Kurgan|Russian Federation
+442|1245 Ibirit Way|La Romana|La Romana|Dominican Republic
+93|1926 El Alto Avenue|Buenos Aires|La Plata|Argentina
+544|183 Haiphong Street|Jilin|Baicheng|China
+428|1727 Matamoros Place|Sawhaj|Sawhaj|Egypt
+387|401 Sucre Boulevard|New Hampshire|Manchester|United States
+175|316 Uruapan Street|Perak|Ipoh|Malaysia
+117|1079 Tel Aviv-Jaffa Boulevard|Sucre|Cuman|Venezuela
+590|247 Jining Parkway|Banjul|Banjul|Gambia
+516|1574 Goinia Boulevard|Heilongjiang|Suihua|China
+537|958 Sagamihara Lane|Mie|Kuwana|Japan
+584|1819 Alessandria Loop|Campeche|Carmen|Mexico
+19|419 Iligan Lane|Madhya Pradesh|Bhopal|India
+227|1820 Maring Parkway|Punjab|Mandi Bahauddin|Pakistan
+223|1244 Allappuzha (Alleppey) Place|Buenos Aires|Vicente Lpez|Argentina
+507|1197 Sokoto Boulevard|West Bengali|Siliguri (Shiliguri)|India
+570|415 Pune Avenue|Shandong|Xintai|China
+494|591 Sungai Petani Drive|Okayama|Okayama|Japan
+395|1337 Mit Ghamr Avenue|Nakhon Sawan|Nakhon Sawan|Thailand
+278|144 South Hill Loop|Guanajuato|Salamanca|Mexico
+285|1006 Santa Brbara dOeste Manor|Ondo & Ekiti|Owo|Nigeria
+87|929 Tallahassee Loop|Gauteng|Springs|South Africa
+596|1759 Niznekamsk Avenue|al-Manama|al-Manama|Bahrain
+190|435 0 Way|West Bengali|Haldia|India
+347|1293 Nam Dinh Way|Roraima|Boa Vista|Brazil
+363|604 Bern Place|Jharkhand|Ranchi|India
+579|521 San Juan Bautista Tuxtepec Place|Qaraghandy|Zhezqazghan|Kazakstan
+324|1145 Vilnius Manor|Mxico|San Felipe del Progreso|Mexico
+307|1908 Gaziantep Place|Liaoning|Tiefa|China
+258|752 Ondo Loop|Miyazaki|Miyakonojo|Japan
+440|722 Bradford Lane|Shandong|Junan|China
+417|791 Salinas Street|Punjab|Hoshiarpur|India
+195|1077 San Felipe de Puerto Plata Place|Rostov-na-Donu|Novoterkassk|Russian Federation
+129|569 Baicheng Lane|Gauteng|Boksburg|South Africa
+578|1405 Hagonoy Avenue|Slaskie|Czestochowa|Poland
+586|951 Springs Lane|Central Mindanao|Iligan|Philippines
+574|502 Mandi Bahauddin Parkway|Anzotegui|Barcelona|Venezuela
+415|432 Garden Grove Street|Ontario|Richmond Hill|Canada
+60|1668 Saint Louis Place|Tahiti|Papeete|French Polynesia
+505|519 Brescia Parkway|East Java|Madiun|Indonesia
+569|1342 Abha Boulevard|Bukarest|Bucuresti|Romania
+520|1778 Gijn Manor|Hubei|Zaoyang|China
+230|201 Effon-Alaiye Way|Asuncin|Asuncin|Paraguay
+242|1964 Gijn Manor|Karnataka|Shimoga|India
+32|1425 Shikarpur Manor|Bihar|Munger (Monghyr)|India
+156|1963 Moscow Place|Assam|Nagaon|India
+281|1944 Bamenda Way|Michigan|Warren|United States
+297|1192 Tongliao Street|Sharja|Sharja|United Arab Emirates
+179|431 Xiangtan Avenue|Kerala|Allappuzha (Alleppey)|India
+345|68 Ponce Parkway|Hanoi|Hanoi|Vietnam
+53|725 Isesaki Place|Mekka|Jedda|Saudi Arabia
+338|431 Szkesfehrvr Avenue|Baki|Baku|Azerbaijan
+583|1489 Kakamigahara Lane|Taipei|Tanshui|Taiwan
+598|42 Fontana Avenue|Fejr|Szkesfehrvr|Hungary
+165|97 Shimoga Avenue|Tel Aviv|Tel Aviv-Jaffa|Israel
+543|43 Vilnius Manor|Colorado|Aurora|United States
+276|1675 Xiangfan Manor|Tamil Nadu|Kumbakonam|India
+585|1208 Tama Loop|Ninawa|Mosul|Iraq
+215|1333 Haldia Street|Jilin|Fuyu|China
+467|1621 Tongliao Avenue|Irkutsk|Usolje-Sibirskoje|Russian Federation
+435|740 Udaipur Lane|Nizni Novgorod|Dzerzinsk|Russian Federation
+233|356 Olomouc Manor|Gois|Anpolis|Brazil
+38|61 Tama Street|Okayama|Kurashiki|Japan
+7|692 Joliet Street|Attika|Athenai|Greece
+513|758 Korolev Parkway|Andhra Pradesh|Vijayawada|India
+63|1213 Ranchi Parkway|Karnataka|Mysore|India
+146|483 Ljubertsy Parkway|Scotland|Dundee|United Kingdom
+109|454 Nakhon Sawan Boulevard|Funafuti|Funafuti|Tuvalu
+416|1445 Carmen Parkway|West Java|Cianjur|Indonesia
+65|915 Ponce Place|Basel-Stadt|Basel|Switzerland
+316|746 Joliet Lane|Kursk|Kursk|Russian Federation
+88|125 Citt del Vaticano Boulevard|Puebla|Atlixco|Mexico
+259|1338 Zalantun Lane|Minas Gerais|Poos de Caldas|Brazil
+113|682 Junan Way|North West|Klerksdorp|South Africa
+261|51 Laredo Avenue|Sagaing|Monywa|Myanmar
+407|1346 Mysore Drive|Bretagne|Brest|France
+107|1177 Jelets Way|Kwara & Kogi|Ilorin|Nigeria
+271|1587 Loja Manor|Salzburg|Salzburg|Austria
+147|374 Bat Yam Boulevard|Kilis|Kilis|Turkey
+388|368 Hunuco Boulevard|Namibe|Namibe|Angola
+92|1942 Ciparay Parkway|Cheju|Cheju|South Korea
+270|682 Halisahar Place|Severn Morava|Olomouc|Czech Republic
+186|533 al-Ayn Boulevard|California|Compton|United States
+160|1367 Yantai Manor|Ondo & Ekiti|Ondo|Nigeria
+555|1764 Jalib al-Shuyukh Parkway|Galicia|Santiago de Compostela|Spain
+454|956 Nam Dinh Manor|Kerman|Sirjan|Iran
+358|1698 Southport Loop|Hidalgo|Pachuca de Soto|Mexico
+424|1948 Bayugan Parkway|Bihar|Katihar|India
+296|1936 Cuman Avenue|Virginia|Roanoke|United States
+44|671 Graz Street|Oriental|Nador|Morocco
+549|454 Qinhuangdao Drive|Tadla-Azilal|Beni-Mellal|Morocco
+263|532 Toulon Street|Santiago|Santiago de los Caballeros|Dominican Republic
+331|1016 Iwakuni Street|St George|Kingstown|Saint Vincent and the Grenadines
+306|1883 Maikop Lane|Kaliningrad|Kaliningrad|Russian Federation
+328|479 San Felipe del Progreso Avenue|Morelos|Cuautla|Mexico
+441|983 Santa F Way|British Colombia|Vancouver|Canada
+243|47 Syktyvkar Lane|West Java|Ciomas|Indonesia
+308|687 Alessandria Parkway|Sanaa|Sanaa|Yemen
+337|1838 Tabriz Lane|Dhaka|Dhaka|Bangladesh
+46|1632 Bislig Avenue|Nonthaburi|Pak Kret|Thailand
+605|1325 Fukuyama Street|Heilongjiang|Tieli|China
+466|118 Jaffna Loop|Northern Mindanao|Gingoog|Philippines
+58|1964 Allappuzha (Alleppey) Street|Yamaguchi|Iwakuni|Japan
+326|470 Boksburg Street|Central|Birgunj|Nepal
+401|168 Cianjur Manor|Saitama|Iwatsuki|Japan
+157|456 Escobar Way|Jakarta Raya|Jakarta|Indonesia
+280|1980 Kamjanets-Podilskyi Street|Illinois|Peoria|United States
+504|1 Valle de Santiago Avenue|Apulia|Brindisi|Italy
+346|1217 Konotop Avenue|Gelderland|Ede|Netherlands
+357|1641 Changhwa Place|Nord-Ouest|Bamenda|Cameroon
+469|1872 Toulon Loop|OHiggins|Rancagua|Chile
+380|1519 Santiago de los Caballeros Loop|East Kasai|Mwene-Ditu|Congo, The Democratic Republic of the
+116|793 Cam Ranh Avenue|California|Lancaster|United States
+57|17 Kabul Boulevard|Chiba|Nagareyama|Japan
+279|1884 Shikarpur Avenue|Haryana|Karnal|India
+225|1926 Gingoog Street|Sisilia|Syrakusa|Italy
+252|1309 Weifang Street|Florida|Tallahassee|United States
+391|1793 Meixian Place|Hmelnytskyi|Kamjanets-Podilskyi|Ukraine
+449|1289 Belm Boulevard|Tartumaa|Tartu|Estonia
+232|754 Valencia Place|Phnom Penh|Phnom Penh|Cambodia
+237|1736 Cavite Place|Qina|Idfu|Egypt
+595|1074 Sanaa Parkway|Loja|Loja|Ecuador
+209|1679 Antofagasta Street|Alto Paran|Ciudad del Este|Paraguay
+532|1427 Tabuk Place|Florida|Cape Coral|United States
+582|1568 Celaya Parkway|Kaohsiung|Fengshan|Taiwan
+171|1540 Wroclaw Drive|Maharashtra|Chandrapur|India
+563|1059 Yuncheng Avenue|Vilna|Vilnius|Lithuania
+486|64 Korla Street|Mwanza|Mwanza|Tanzania
+603|1103 Quilmes Boulevard|Piura|Sullana|Peru
+277|85 San Felipe de Puerto Plata Drive|Shandong|Yantai|China
+245|1103 Bilbays Parkway|Hubei|Xiangfan|China
+118|442 Rae Bareli Place|Nordrhein-Westfalen|Duisburg|Germany
+446|1924 Shimonoseki Drive|Batna|Batna|Algeria
+67|1214 Hanoi Way|Nebraska|Lincoln|United States
+94|1952 Chatsworth Drive|Guangdong|Meixian|China
+480|421 Yaound Street|Sumy|ostka|Ukraine
+155|1560 Jelets Boulevard|Shandong|Laiwu|China
+262|771 Yaound Manor|Sofala|Beira|Mozambique
+604|1331 Usak Boulevard|Vaud|Lausanne|Switzerland
+181|146 Johannesburg Way|Tamaulipas|Matamoros|Mexico
+173|1294 Firozabad Drive|Jiangxi|Pingxiang|China
+73|1031 Daugavpils Parkway|Bchar|Bchar|Algeria
+98|152 Kitwe Parkway|Caraga|Bislig|Philippines
+528|1176 Southend-on-Sea Manor|Southern Tagalog|Santa Rosa|Philippines
+489|1297 Alvorada Parkway|Ningxia|Yinchuan|China
+362|482 Kowloon and New Kowloon Manor|Bratislava|Bratislava|Slovakia
+468|1844 Usak Avenue|Nova Scotia|Halifax|Canada
+274|920 Kumbakonam Loop|California|Salinas|United States
+471|1322 Mosul Parkway|Shandong|Dongying|China
+265|1158 Mandi Bahauddin Parkway|Shanxi|Datong|China
+327|1427 A Corua (La Corua) Place|Buenos Aires|Baha Blanca|Argentina
+84|1888 Kabul Drive|Oyo & Osun|Ife|Nigeria
+135|1752 So Leopoldo Parkway|Taka-Karpatia|Mukateve|Ukraine
+282|556 Baybay Manor|Oyo & Osun|Ogbomosho|Nigeria
+97|832 Nakhon Sawan Manor|Inner Mongolia|Zalantun|China
+283|457 Tongliao Loop|Bursa|Inegl|Turkey
+495|656 Matamoros Drive|Boyac|Sogamoso|Colombia
+197|447 Surakarta Loop|Nyanza|Kisumu|Kenya
+68|1966 Amroha Avenue|Sichuan|Daxian|China
+6|1121 Loja Avenue|California|San Bernardino|United States
+149|999 Sanaa Loop|Gauteng|Soshanguve|South Africa
+36|176 Mandaluyong Place|Uttar Pradesh|Jhansi|India
+212|624 Oshawa Boulevard|West Bengali|Balurghat|India
+151|1337 Lincoln Parkway|Saitama|Urawa|Japan
+169|154 Tallahassee Loop|Xinxiang|Hami|China
+254|786 Stara Zagora Way|Oyo & Osun|Oyo|Nigeria
+390|102 Chapra Drive|Ibaragi|Tama|Japan
+482|808 Naala-Porto Parkway|England|Stockport|United Kingdom
+170|710 San Felipe del Progreso Avenue|Lilongwe|Lilongwe|Malawi
+493|184 Mandaluyong Street|Baja California Sur|La Paz|Mexico
+287|1405 Chisinau Place|Ponce|Ponce|Puerto Rico
+535|635 Brest Manor|Andhra Pradesh|Bhimavaram|India
+487|1785 So Bernardo do Campo Street|Veracruz|Coatzacoalcos|Mexico
+161|1386 Nakhon Sawan Boulevard|Pyongyang-si|Pyongyang|North Korea
+374|433 Florencia Street|Chihuahua|Jurez|Mexico
+99|1697 Tanauan Lane|Punjab|Pathankot|India
+112|1002 Ahmadnagar Manor|Mxico|Huixquilucan|Mexico
+315|543 Bergamo Avenue|Minas Gerais|Ibirit|Brazil
+426|1661 Abha Drive|Tamil Nadu|Pudukkottai|India
+100|1308 Arecibo Way|Georgia|Augusta-Richmond County|United States
+575|1052 Pathankot Avenue|Sichuan|Leshan|China
+580|923 Tangail Boulevard|Tokyo-to|Akishima|Japan
+82|936 Salzburg Lane|Uttar Pradesh|Rae Bareli|India
+18|770 Bydgoszcz Avenue|California|Citrus Heights|United States
+168|842 Salzburg Lane|Adana|Tarsus|Turkey
+305|41 El Alto Parkway|Maharashtra|Parbhani|India
+332|663 Baha Blanca Parkway|Adana|Adana|Turkey
+439|1351 Aparecida de Goinia Parkway|Northern Mindanao|Ozamis|Philippines
+77|1947 Poos de Caldas Boulevard|Chiayi|Chiayi|Taiwan
+235|954 Kimchon Place|West Bengali|Uttarpara-Kotrung|India
+1|47 MySakila Drive|Alberta|Lethbridge|Canada
+573|1407 Surakarta Manor|Moskova|Serpuhov|Russian Federation
+273|1519 Ilorin Place|Kerala|Palghat (Palakkad)|India
+228|60 Poos de Caldas Street|Rajasthan|Jodhpur|India
+592|1923 Stara Zagora Lane|Nantou|Tsaotun|Taiwan
+234|1256 Bislig Boulevard|Botosani|Botosani|Romania
+321|651 Pathankot Loop|Maharashtra|Miraj|India
+49|1718 Valencia Street|Antofagasta|Antofagasta|Chile
+139|943 Johannesburg Avenue|Maharashtra|Pune|India
+91|1740 Portoviejo Avenue|Sucre|Sincelejo|Colombia
+410|88 Nagaon Manor|Buenos Aires|Tandil|Argentina
+205|68 Molodetno Manor|Nordrhein-Westfalen|Witten|Germany
+379|1133 Rizhao Avenue|Pernambuco|Vitria de Santo Anto|Brazil
+529|600 Purnea (Purnia) Avenue|Nghe An|Vinh|Vietnam
+488|698 Jelets Boulevard|Denizli|Denizli|Turkey
+43|306 Antofagasta Place|Esprito Santo|Vila Velha|Brazil
+333|1860 Taguig Loop|West Java|Ciparay|Indonesia
+370|1565 Tangail Manor|Okinawa|Okinawa|Japan
+295|544 Tarsus Boulevard|Gurico|Valle de la Pascua|Venezuela
+556|346 Cam Ranh Avenue|Zhejiang|Zhoushan|China
+248|582 Papeete Loop|Central Visayas|Lapu-Lapu|Philippines
+455|1947 Paarl Way|Central Java|Surakarta|Indonesia
+443|1836 Korla Parkway|Copperbelt|Kitwe|Zambia
+119|1107 Nakhon Sawan Avenue|Mxico|Nezahualcyotl|Mexico
+458|138 Caracas Boulevard|Zulia|Maracabo|Venezuela
+355|469 Nakhon Sawan Street|Tuvassia|Teboksary|Russian Federation
+402|616 Hagonoy Avenue|Krasnojarsk|Atinsk|Russian Federation
+122|333 Goinia Way|Texas|Grand Prairie|United States
+153|782 Mosul Street|Massachusetts|Brockton|United States
+210|1304 s-Hertogenbosch Way|Santa Catarina|Blumenau|Brazil
+152|1952 Pune Lane|Saint-Denis|Saint-Denis|Runion
+421|966 Arecibo Loop|Sind|Dadu|Pakistan
+547|379 Lublin Parkway|Toscana|Livorno|Italy
+246|1246 Boksburg Parkway|Hebei|Qinhuangdao|China
+506|414 Mandaluyong Street|Lubelskie|Lublin|Poland
+599|1895 Zhezqazghan Drive|California|Garden Grove|United States
+22|320 Brest Avenue|Kaduna|Kaduna|Nigeria
+558|904 Clarksville Drive|Zhejiang|Haining|China
+409|1266 Laredo Parkway|Saitama|Omiya|Japan
+140|788 Atinsk Street|Karnataka|Hubli-Dharwad|India
+399|331 Bydgoszcz Parkway|Asturia|Gijn|Spain
+559|1917 Kumbakonam Parkway|Vojvodina|Novi Sad|Yugoslavia
+453|319 Springs Loop|Baijeri|Erlangen|Germany
+392|514 Ife Way|Shaba|Lubumbashi|Congo, The Democratic Republic of the
+182|1891 Rizhao Boulevard|So Paulo|Santa Brbara dOeste|Brazil
+542|193 Bhusawal Place|Kang-won|Tonghae|South Korea
+101|1599 Plock Drive|Tete|Tete|Mozambique
+500|362 Rajkot Lane|Gansu|Baiyin|China
+432|259 Ipoh Drive|So Paulo|Guaruj|Brazil
+4|1411 Lillydale Drive|QLD|Woodridge|Australia
+545|163 Augusta-Richmond County Loop|Carabobo|Valencia|Venezuela
+503|1416 San Juan Bautista Tuxtepec Avenue|Zufar|Salala|Oman
+526|617 Klerksdorp Place|Khanh Hoa|Nha Trang|Vietnam
+11|900 Santiago de Compostela Parkway|Central Serbia|Kragujevac|Yugoslavia
+562|869 Shikarpur Way|England|Southport|United Kingdom
+565|1741 Hoshiarpur Boulevard|al-Sharqiya|Bilbays|Egypt
+86|927 Baha Blanca Parkway|Krim|Simferopol|Ukraine
+322|1359 Zhoushan Parkway|Streymoyar|Trshavn|Faroe Islands
+479|1854 Okara Boulevard|Drenthe|Emmen|Netherlands
+312|1354 Siegen Street|Rio de Janeiro|Angra dos Reis|Brazil
+90|870 Ashqelon Loop|Songkhla|Songkhla|Thailand
+79|1551 Rampur Lane|Changhwa|Changhwa|Taiwan
+566|1229 Varanasi (Benares) Manor|Buenos Aires|Avellaneda|Argentina
+304|1635 Kuwana Boulevard|Hiroshima|Hiroshima|Japan
+253|1760 Oshawa Manor|Tianjin|Tianjin|China
+143|1029 Dzerzinsk Manor|Ynlin|Touliu|Taiwan
+581|186 Skikda Lane|Morelos|Cuernavaca|Mexico
+465|734 Tanshui Avenue|Caquet|Florencia|Colombia
+512|1269 Ipoh Avenue|Eskisehir|Eskisehir|Turkey
+531|1986 Sivas Place|Friuli-Venezia Giuli|Udine|Italy
+83|586 Tete Way|Kanagawa|Kamakura|Japan
+485|984 Novoterkassk Loop|Gaziantep|Gaziantep|Turkey
+40|334 Munger (Monghyr) Lane|Markazi|Arak|Iran
+530|1003 Qinhuangdao Street|West Java|Purwakarta|Indonesia
+164|1623 Baha Blanca Manor|Moskova|Ljubertsy|Russian Federation
+27|1780 Hino Boulevard|Liepaja|Liepaja|Latvia
+309|827 Yuncheng Drive|Callao|Callao|Peru
+588|966 Asuncin Way|Hidalgo|Huejutla de Reyes|Mexico
+419|397 Sunnyvale Avenue|Guanajuato|Allende|Mexico
+437|1766 Almirante Brown Street|KwaZulu-Natal|Newcastle|South Africa
+255|1966 Tonghae Street|Anhalt Sachsen|Halle/Saale|Germany
+238|346 Skikda Parkway|Hawalli|Jalib al-Shuyukh|Kuwait
+29|934 San Felipe de Puerto Plata Street|Sind|Shikarpur|Pakistan
+158|798 Cianjur Avenue|Shanxi|Yuncheng|China
+178|1848 Salala Boulevard|Miranda|Ocumare del Tuy|Venezuela
+185|682 Garden Grove Place|Tennessee|Memphis|United States
+350|1628 Nagareyama Lane|Central|San Lorenzo|Paraguay
+130|1666 Qomsheh Drive|So Paulo|Po|Brazil
+538|1817 Livorno Way|Khanh Hoa|Cam Ranh|Vietnam
+206|642 Nador Drive|Maharashtra|Bhusawal|India
+208|1215 Pyongyang Parkway|Usak|Usak|Turkey
+317|780 Kimberley Way|Tabuk|Tabuk|Saudi Arabia
+136|898 Belm Manor|Free State|Botshabelo|South Africa
+497|1013 Tabuk Boulevard|West Bengali|Kanchrapara|India
+342|124 al-Manama Way|Hiroshima|Onomichi|Japan
+414|1936 Lapu-Lapu Parkway|Bauchi & Gombe|Deba Habe|Nigeria
+423|437 Chungho Drive|Puerto Plata|San Felipe de Puerto Plata|Dominican Republic
+180|757 Rustenburg Avenue|Skikda|Skikda|Algeria

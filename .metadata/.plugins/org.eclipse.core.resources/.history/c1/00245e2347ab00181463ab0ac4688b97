@@ -1,0 +1,25 @@
+package com.pw.io.booker.repository.impl.jdbc;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import org.springframework.jdbc.core.RowMapper;
+
+import com.pw.io.booker.model.TravelPackage;
+
+public class TravelPackageRowMapper implements RowMapper<TravelPackage> {
+	
+	@Override
+	public TravelPackage mapRow(ResultSet rs, int rowNum) throws SQLException{
+		TravelPackage travelPackage = new TravelPackage();
+		travelPackage.setTravelPackageId(rs.getInt(rowNum));
+		travelPackage.setDescription(rs.getString(rowNum));
+		travelPackage.setPackageName(rs.getString(rowNum));
+		
+		return travelPackage;
+		
+	}
+	
+	
+
+}

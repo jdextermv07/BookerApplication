@@ -1,0 +1,93 @@
+package com.example.demo.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.transaction.Transactional;
+
+import org.springframework.stereotype.Service;
+
+import com.example.demo.model.Customer;
+import com.example.demo.model.Feedback;
+import com.example.demo.repository.CustomerRepository;
+
+@Service
+public class CustomerService {
+
+	CustomerRepository customerRepository;
+
+	public CustomerService(CustomerRepository customerRepository) {
+		super();
+		this.customerRepository = customerRepository;
+	}
+	
+	public List<Customer> findAll(){
+		Iterable<Customer> iterCust = customerRepository.findAll();
+		List<Customer> listCustomer = new ArrayList();
+		for(Customer value:iterCust) {
+			listCustomer.add(value);
+		}	
+		return listCustomer;
+	}
+	
+	public List<Customer> updateCustomer(List<Customer> customerList) {
+		List<Customer> listCustomer = new ArrayList();
+		for(Customer value:customerList) {
+			customerRepository.save(value);
+			listCustomer.add(value);
+		}
+		return listCustomer;
+	}
+	
+	public List<Customer> addCustomer(List<Customer> customerList) {
+		List<Customer> listCustomer = new ArrayList();
+		for(Customer value:customerList) {
+			customerRepository.save(value);
+			listCustomer.add(value);
+		}
+		return listCustomer;
+	}
+	
+	public void deleteCustomer(Customer customer) {
+		customerRepository.delete(customer);
+	}
+	
+	public Customer findById(int id) {
+		return customerRepository.findById(id).get();
+	}
+	
+	
+	
+	
+//	public List<Customer> findById(List<Integer> id) {
+//		List<Customer> listCustomer = new ArrayList();
+//		for()
+//		
+//		return customerRepository.findById(id).get();
+//	}
+	
+	
+	// ======
+	
+	
+//	
+//	public Iterable<Customer> findAll(){
+//		return customerRepository.findAll();
+//	}
+//	
+//	@Transactional
+//	public Customer saveCustomer(Customer customer) {
+//		
+//		for (Feedback value : customer.getFeedbackList()) {
+//			value.setCustomer(customer);
+//			feedbackService.saveFeedback(value);
+//		}
+//		return customerRepository.save(customer);
+//	}
+//	
+//	
+//	
+//	public void deleteCustomer(Customer customer) {
+//		customerRepository.delete(customer);
+//	}
+}

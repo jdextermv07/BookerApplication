@@ -1,0 +1,23 @@
+
+l
+squid:S106-"9Replace this use of System.out or System.err by a logger.(Ê ÆÊ8™»¥ĞØ,HóARMAJORZ
+CODE_SMELL
+isquid:S3655>"7Call "Optional#isPresent()" before accessing the value.(¢”­úÿÿÿÿ8œ¸ŸÑØ,HŒCRMAJORZBUG
+usquid:UselessImportCheck"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8¿èÀĞØ,HBRMINORZ
+CODE_SMELL
+isquid:S3655M"7Call "Optional#isPresent()" before accessing the value.(ÿâ‹øÿÿÿÿ8ª•ÒÍØ,H‹ARMAJORZBUG
+dsquid:S3655'"7Call "Optional#isPresent()" before accessing the value.(«‡ßè8Ñ“ÉĞØ,H…BRMAJORZBUG
+„squid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(¡øÒµúÿÿÿÿ8•âÅËØ,H–@RMAJORZ
+CODE_SMELL
+’squid:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ßõÿÿÿÿÿ8ä¬ƒÎØ,HÄARMINORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ßõÿÿÿÿÿ8ä¬ƒÎØ,HÃARMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLineq"<This block of commented-out lines of code should be removed.(©¾Â‡ÿÿÿÿÿ8•âÅËØ,H—@RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(§³Ç8•âÅËØ,H”@RMAJORZ
+CODE_SMELL
+’squid:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ßõÿÿÿÿÿ8ä¬ƒÎØ,HÅARMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(¯äê8•âÅËØ,H•@RMAJORZ
+CODE_SMELL

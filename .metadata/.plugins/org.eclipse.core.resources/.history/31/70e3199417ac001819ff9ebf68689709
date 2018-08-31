@@ -1,0 +1,8 @@
+package com.example.demo.model;
+
+public class Customer {
+
+	private int customerId;
+	private String firstName;
+	private String lastName;
+}

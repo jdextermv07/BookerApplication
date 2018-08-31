@@ -1,0 +1,70 @@
+package com.example.demo.controller;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.demo.model.Customer;
+import com.example.demo.model.Feedback;
+import com.example.demo.service.CustomerService;
+import com.example.demo.service.FeedbackService;
+
+
+
+@RestController
+@RequestMapping("/customer")
+public class CustomerController {
+
+	private CustomerService customerService;
+	private FeedbackService feedbackService;
+	private Customer customerB;
+
+	
+	
+	public CustomerController(CustomerService customerService, FeedbackService feedbackService) {
+		super();
+		this.customerService = customerService;
+		this.feedbackService = feedbackService;
+	}
+
+	@GetMapping
+	public Iterable<Customer> getAllCustomer(){
+		return customerService.findAll();
+	}
+	
+	@PostMapping
+	public Customer saveCustomer(@RequestBody Customer customer) {
+		
+		for (Feedback value : customer.getFeedbackList()) {
+			feedbackService.saveFeedback(value);
+		}
+		return customerService.saveCustomer(customer);
+	}
+	
+	@PutMapping("/{id}")
+	public Customer updateCustomer(@RequestBody Customer customer, @PathVariable ("id") int customerId) {
+		customer.setCustomerId(customerId);
+		return customerService.saveCustomer(customer);
+		
+	}
+	
+	@DeleteMapping("/{id}")
+	public void deleteCustomer(@PathVariable ("id") int customerId) {
+		customerService.deleteCustomer(customerService.findById(customerId));
+	}
+	
+	@GetMapping("/{id}")
+	public Customer findCustomer(@PathVariable ("id") int customerId) {
+		return customerService.findById(customerId);
+	}
+	
+	
+}

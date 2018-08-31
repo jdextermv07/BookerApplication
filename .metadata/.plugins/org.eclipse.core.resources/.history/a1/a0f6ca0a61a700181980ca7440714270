@@ -1,0 +1,19 @@
+package com.pw.io.booker;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.pw.io.booker.service.ReservationService;
+
+public class BookerServiceAppXML {
+
+	public static void main(String[] args) {
+		ApplicationContext context = new ClassPathXmlApplicationContext("com/pw/io/booker/booking-context.xml");
+		ReservationService reservationService = context.getBean("reservationService", ReservationService.class);
+		System.out.println();
+		
+		
+
+	}
+
+}

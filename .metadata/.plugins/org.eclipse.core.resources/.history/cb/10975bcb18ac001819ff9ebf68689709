@@ -1,0 +1,9 @@
+package com.example.demo.model;
+
+public class ServiceFee {
+
+	private int serviceFeeId;
+	private float amount;
+	private Service service;
+	private String startDate; 
+}

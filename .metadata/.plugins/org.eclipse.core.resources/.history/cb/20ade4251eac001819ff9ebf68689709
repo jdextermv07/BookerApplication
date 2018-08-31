@@ -1,0 +1,62 @@
+package com.example.demo.service;
+
+import javax.transaction.Transactional;
+
+import org.springframework.stereotype.Service;
+
+import com.example.demo.model.Customer;
+import com.example.demo.model.Feedback;
+import com.example.demo.repository.CustomerRepository;
+
+@Service
+public class CustomerService {
+
+	CustomerRepository customerRepository;
+
+	public CustomerService(CustomerRepository customerRepository) {
+		super();
+		this.customerRepository = customerRepository;
+	}
+	
+	public Iterable<Customer> findAll(){
+		return customerRepository.findAll();
+	}
+	
+	public Customer updateCustomer(Customer customer) {
+		return customerRepository.save(customer);
+	}
+	
+	public Customer addCustomer(Customer customer) {
+		return customerRepository.save(customer);
+	}
+	
+	public void deleteCustomer(Customer customer) {
+		customerRepository.delete(customer);
+	}
+	
+	public Customer findById(int id) {
+		return customerRepository.findById(id).get();
+	}
+	
+	
+//	
+//	public Iterable<Customer> findAll(){
+//		return customerRepository.findAll();
+//	}
+//	
+//	@Transactional
+//	public Customer saveCustomer(Customer customer) {
+//		
+//		for (Feedback value : customer.getFeedbackList()) {
+//			value.setCustomer(customer);
+//			feedbackService.saveFeedback(value);
+//		}
+//		return customerRepository.save(customer);
+//	}
+//	
+//	
+//	
+//	public void deleteCustomer(Customer customer) {
+//		customerRepository.delete(customer);
+//	}
+}

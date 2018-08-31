@@ -1,0 +1,6 @@
+#spring.datasource.url=jdbc:postgresql://localhost/booker
+#spring.datasource.username=postgres
+#spring.datasource.password=pass123
+#spring.jpa.hibernate.ddl-auto=create-drop
+#spring.datasource.type=org.postgresql.ds.PGPoolingDataSource
+management.endpoints.web.exposure.include=*

@@ -1,0 +1,6 @@
+
+squid:UselessImportCheck	"NRemove this unused import 'com.fasterxml.jackson.annotation.JsonIdentityInfo'.(—éÑğ8¦öë›Ø,HÆ:RMINORZ
+CODE_SMELL
+¨squid:UselessImportCheck
+"bRemove this unused import 'com.fasterxml.jackson.annotation.ObjectIdGenerators.PropertyGenerator'.(€‡éŞüÿÿÿÿ8¦öë›Ø,HÅ:RMINORZ
+CODE_SMELL

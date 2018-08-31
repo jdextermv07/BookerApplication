@@ -1,0 +1,40 @@
+package com.pw.io.booker;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.pw.io.booker.model.Reservation;
+import com.pw.io.booker.model.TravelItem;
+import com.pw.io.booker.repository.list.TravelPackageRepositoryList;
+import com.pw.io.booker.service.ReservationService;
+import com.pw.io.booker.service.TravelItemService;
+import com.pw.io.booker.service.TravelPackageService;
+import com.pw.io.booker.util.BookerServiceUtil;
+
+public class BookerServiceApplication {
+
+	private static BookerServiceUtil bookerServiceUtil;
+	
+	public static void main(String[] args) {
+		
+		TravelPackageRepositoryList travelPackageRepositoryList = new TravelPackageRepositoryList();
+		TravelPackageService travelPackageService = new TravelPackageService();
+		
+		ReservationService reservationService = new ReservationService();
+		TravelItemService travelItemService = new TravelItemService();
+
+		initData();
+		
+		Reservation reservation = new Reservation();
+		List<TravelItem> travelItemList = new ArrayList<>();
+		travelItemList.add(travelItemService.findById(1001));
+		reservation.setAvailedItemList(travelItemList);
+		reservationService.reserve(reservation);
+		System.out.println("Success");
+	}
+	
+	private static void initData() {
+		bookerServiceUtil = new BookerServiceUtil();
+		bookerServiceUtil.initializeData();
+	}
+}

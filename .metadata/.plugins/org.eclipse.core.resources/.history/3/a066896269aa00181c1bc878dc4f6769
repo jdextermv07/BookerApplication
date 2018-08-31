@@ -1,0 +1,42 @@
+package com.pw.io.booker;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+import com.pw.io.booker.model.Reservation;
+import com.pw.io.booker.model.TravelItem;
+import com.pw.io.booker.service.ReservationService;
+import com.pw.io.booker.service.TravelItemService;
+import com.pw.io.booker.util.BookerServiceUtil;
+
+@Configuration
+@ComponentScan({"com.pw.io.booker.repository", "com.pw.io.booker.service", "com.pw.io.booker.util", "com.pw.io.config"})
+public class BookerServiceConfiguration {
+
+	public static void main(String[] args) {
+	
+		ApplicationContext context = new AnnotationConfigApplicationContext(BookerConfig.class);
+		ReservationService reservationService = context.getBean("rs", ReservationService.class);
+		
+		
+		initData(context.getBean("bsu", BookerServiceUtil.class));
+		
+		Reservation reservation = new Reservation();
+		List<TravelItem> travelItemList = new ArrayList<>();
+		travelItemList.add(context.getBean("tis", TravelItemService.class).findById(1001));
+		reservation.setAvailedItemList(travelItemList);
+		reservationService.reserve(reservation);
+		System.out.println("Success");	
+	}
+	private static void initData(BookerServiceUtil bUtil) {
+		bUtil.initializeData();
+	}
+
+	}
+
+}

@@ -1,0 +1,5 @@
+1534989067633	Rename local variable 'filmBean'
+1534992252455	Rename field 'film_id'
+1535008052501	Rename type 'LoginBean'
+1535008062673	Rename type 'LoginDao'
+1535008072076	Rename type 'LoginManager'

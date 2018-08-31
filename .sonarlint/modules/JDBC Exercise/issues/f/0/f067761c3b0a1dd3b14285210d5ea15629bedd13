@@ -1,0 +1,15 @@
+
+vsquid:UselessImportCheck"7Remove this unused import 'com.exercise.bean.FilmBean'.(ìïÜ†ùÿÿÿÿHÒ*RMINORZ
+CODE_SMELL
+Wsquid:S00108*")Either remove or fill this block of code.(É®£HÑ*RMAJORZ
+CODE_SMELL
+Wsquid:S00108%")Either remove or fill this block of code.(É®£HĞ*RMAJORZ
+CODE_SMELL
+~squid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½8Šû“¯Ö,Hï+RBLOCKERZBUG
+vsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…8Šû“¯Ö,Hğ+RBLOCKERZBUG
+qsquid:UselessImportCheck	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Šû“¯Ö,Hñ+RMINORZ
+CODE_SMELL
+psquid:UselessImportCheck"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8Šû“¯Ö,Hò+RMINORZ
+CODE_SMELL
+qsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Šû“¯Ö,Hó+RMINORZ
+CODE_SMELL

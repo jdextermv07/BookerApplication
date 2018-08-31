@@ -1,0 +1,43 @@
+
+fsquid:S1199I"-Extract this nested code block into a method.(ϊΐτγωÿÿÿÿ8ώνί±Τ,Hζ&RMINORZ
+CODE_SMELL
+l
+squid:S106\"9Replace this use of System.out or System.err by a logger.(€Όο²8ΈΨφ¥Υ,Hη&RMAJORZ
+CODE_SMELL
+fsquid:S1199 "-Extract this nested code block into a method.(πΑ–Σϋÿÿÿÿ8ώνί±Τ,Hθ&RMINORZ
+CODE_SMELL
+fsquid:S1199E"-Extract this nested code block into a method.(πΑ–Σϋÿÿÿÿ8ƒ΄φέΣ,Hι&RMINORZ
+CODE_SMELL
+fsquid:S1199A"-Extract this nested code block into a method.(·ÿ½δϋÿÿÿÿ8ΐΞκ€Τ,Hκ&RMINORZ
+CODE_SMELL
+u"squid:SwitchLastCaseIsDefaultCheck@""Add a default case to this switch.(Ιφψÿÿÿÿ8ώνί±Τ,Hλ&RCRITICALZ
+CODE_SMELL
+fsquid:S1199"-Extract this nested code block into a method.(·ÿ½δϋÿÿÿÿ8ώνί±Τ,Hμ&RMINORZ
+CODE_SMELL
+fsquid:S11994"-Extract this nested code block into a method.(πΑ–Σϋÿÿÿÿ8ώνί±Τ,Hν&RMINORZ
+CODE_SMELL
+asquid:S1199Q"-Extract this nested code block into a method.(ΞήθΊ8ώνί±Τ,Hξ&RMINORZ
+CODE_SMELL
+u"squid:SwitchLastCaseIsDefaultCheck/""Add a default case to this switch.(Ιφψÿÿÿÿ8½Ϋή±Τ,Hο&RCRITICALZ
+CODE_SMELL
+fsquid:S1199$"-Extract this nested code block into a method.(ϊΐτγωÿÿÿÿ8ώνί±Τ,Hπ&RMINORZ
+CODE_SMELL
+q
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(ώρ‚ύÿÿÿÿ8„Χί»Τ,Hρ&RMAJORZ
+CODE_SMELL
+u"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ιφψÿÿÿÿ8½Ϋή±Τ,Hς&RCRITICALZ
+CODE_SMELL
+fsquid:S1199"-Extract this nested code block into a method.(·ÿ½δϋÿÿÿÿ8·Ο€Τ,Hσ&RMINORZ
+CODE_SMELL
+„squid:S1301/"KReplace this "switch" statement by "if" statements to increase readability.(Ιφψÿÿÿÿ8½Ϋή±Τ,Hτ&RMINORZ
+CODE_SMELL
+fsquid:S1199,"-Extract this nested code block into a method.(πΑ–Σϋÿÿÿÿ8ƒ΄φέΣ,Hυ&RMINORZ
+CODE_SMELL
+jsquid:S2589"7Remove this expression which always evaluates to "true"(ÒΨΆ{8”ρωάΣ,Hφ&RMAJORZ
+CODE_SMELL
+u"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ιφψÿÿÿÿ8ώνί±Τ,Hχ&RCRITICALZ
+CODE_SMELL
+fsquid:S11990"-Extract this nested code block into a method.(·ÿ½δϋÿÿÿÿ8„Ύ›ΌΤ,Hψ&RMINORZ
+CODE_SMELL
+fsquid:S1199="-Extract this nested code block into a method.(ϊΐτγωÿÿÿÿ8ώνί±Τ,Hω&RMINORZ
+CODE_SMELL

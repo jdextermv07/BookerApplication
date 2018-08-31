@@ -1,0 +1,49 @@
+package com.example.demo.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.example.demo.model.Customer;
+import com.example.demo.model.TravelPackage;
+import com.example.demo.repository.TravelPackageRepository;
+
+public class TravelPackageService {
+
+	TravelPackageRepository travelPackageRepository;
+
+	public TravelPackageService(TravelPackageRepository travelPackageService) {
+		super();
+		this.travelPackageRepository = travelPackageService;
+	}
+	
+	// travel packages
+	public List<TravelPackage> findAllList(){
+		Iterable<TravelPackage> iterTravPack = travelPackageRepository.findAll();
+		List<TravelPackage> listTravelPackage = new ArrayList<TravelPackage>();
+		for(TravelPackage value:iterTravPack) {
+			listTravelPackage.add(value);
+		}	
+		return listTravelPackage;
+	}
+	
+	public List<TravelPackage> addCustomerList(List<TravelPackage> travelPackageList) {
+		List<TravelPackage> listTravelPackage = new ArrayList<TravelPackage>();
+		for(TravelPackage value:travelPackageList) {
+			travelPackageRepository.save(value);
+			listTravelPackage.add(value);
+		}
+		return listTravelPackage;
+	}
+	
+	// travel package
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

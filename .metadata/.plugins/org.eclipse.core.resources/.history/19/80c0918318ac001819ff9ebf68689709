@@ -1,0 +1,12 @@
+package com.example.demo.model;
+
+import java.util.List;
+
+public class Reservation {
+
+	private int reservationId;
+	private List<Service> availedServcelist;
+	private String departureDate;
+	private Customer customer;
+	
+}

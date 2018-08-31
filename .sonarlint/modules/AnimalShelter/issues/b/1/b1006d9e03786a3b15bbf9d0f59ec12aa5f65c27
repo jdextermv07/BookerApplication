@@ -1,0 +1,418 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(„õ‘ıÿÿÿÿ8°Ù‘Ó,HŒ
+RMAJORZ
+CODE_SMELL
+v"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Éöøÿÿÿÿ8Óù¬×Ó,H¥
+RCRITICALZ
+CODE_SMELL
+©squid:S1192"mDefine a constant instead of duplicating this literal "===========================================" 14 times.(¬‘‡¾ıÿÿÿÿ8°Ù‘Ó,H
+RCRITICALZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ıÿÿÿÿ8¥êİ’Ó,H³
+RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖéÿÃÿÿÿÿÿ8Óù¬×Ó,H§
+RMAJORZ
+CODE_SMELL
+m
+squid:S106±"9Replace this use of System.out or System.err by a logger.(ÂƒçË8‰¾ÅÙÓ,H×RMAJORZ
+CODE_SMELL
+q
+squid:S106?"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ıÿÿÿÿ8‰¾ÅÙÓ,HàRMAJORZ
+CODE_SMELL
+†
+squid:S128,"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ8Î›éÙÓ,HùRBLOCKERZ
+CODE_SMELL
+bsquid:S1199Õ"-Extract this nested code block into a method.(Ó‚ï8‡İÄÚÓ,H«RMINORZ
+CODE_SMELL
+fsquid:S1199f"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8‰¾ÅÙÓ,H¾RMINORZ
+CODE_SMELL
+m
+squid:S106–"9Replace this use of System.out or System.err by a logger.(À øâ8˜“ÚÓ,H‡RMAJORZ
+CODE_SMELL
+†
+squid:S128&"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8¥êİ’Ó,H•
+RBLOCKERZ
+CODE_SMELL
+q
+squid:S106V"9Replace this use of System.out or System.err by a logger.(Òíİüÿÿÿÿ8ÛØáÖÓ,HÓ
+RMAJORZ
+CODE_SMELL
+m
+squid:S106ï"9Replace this use of System.out or System.err by a logger.(ô”Ì´8‡İÄÚÓ,H®RMAJORZ
+CODE_SMELL
+m
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(ü–‚8‰¾ÅÙÓ,HÖRMAJORZ
+CODE_SMELL
+m
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(šÉò­8Óù¬×Ó,H
+RMAJORZ
+CODE_SMELL
+gsquid:S1199"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8½çÑÖÓ,HÌ
+RMINORZ
+CODE_SMELL
+l
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(ÒûC8‰¾ÅÙÓ,HÄRMAJORZ
+CODE_SMELL
+bsquid:S1199Î"-Extract this nested code block into a method.(ÎŞèº8‰¾ÅÙÓ,HºRMINORZ
+CODE_SMELL
+q
+squid:S106D"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ıÿÿÿÿ8‰¾ÅÙÓ,HßRMAJORZ
+CODE_SMELL
+r
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(‚ìğıÿÿÿÿ8¡¥üÙÓ,HƒRMAJORZ
+CODE_SMELL
+q
+squid:S106s"9Replace this use of System.out or System.err by a logger.(´şıÏşÿÿÿÿ8‰¾ÅÙÓ,HÏRMAJORZ
+CODE_SMELL
+r
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(‚è¹êÿÿÿÿÿ8‰¾ÅÙÓ,HÓRMAJORZ
+CODE_SMELL
+d
+squid:S106U"9Replace this use of System.out or System.err by a logger.(®ïŞ+H 
+RMAJORZ
+CODE_SMELL
+r
+squid:S106æ"9Replace this use of System.out or System.err by a logger.(ë‰¿‹ÿÿÿÿÿ8Óù¬×Ó,H¨RMAJORZ
+CODE_SMELL
+l
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(â¥ú8‡İÄÚÓ,H­RMAJORZ
+CODE_SMELL
+asquid:S1199x"-Extract this nested code block into a method.(ÎŞèº8Óù¬×Ó,H—
+RMINORZ
+CODE_SMELL
+fsquid:S1199H"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8«êú¾Ó,H°
+RMINORZ
+CODE_SMELL
+¨squid:S1192C"lDefine a constant instead of duplicating this literal "||    [2] - Return to Main Menu          ||" 3 times.(øÿ®Ïúÿÿÿÿ8‰¾ÅÙÓ,H¸RCRITICALZ
+CODE_SMELL
+gsquid:S1199·"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8¥êİ’Ó,H‘
+RMINORZ
+CODE_SMELL
+m
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(Ãà·é8Î›éÙÓ,HúRMAJORZ
+CODE_SMELL
+r
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(ËŠ”´ÿÿÿÿÿ8¨Õ¾ÚÓ,H£RMAJORZ
+CODE_SMELL
+r
+squid:S106š"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ıÿÿÿÿ8˜“ÚÓ,H†RMAJORZ
+CODE_SMELL
+gsquid:S1199·"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8Óù¬×Ó,H«
+RMINORZ
+CODE_SMELL
+m
+squid:S106ñ"9Replace this use of System.out or System.err by a logger.(İúÍ×8‡İÄÚÓ,H¯RMAJORZ
+CODE_SMELL
+gsquid:S1199Ğ"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8ê¡°Ó,H¿
+RMINORZ
+CODE_SMELL
+r
+squid:S106«"9Replace this use of System.out or System.err by a logger.(Òíİüÿÿÿÿ8™¶İ•Ó,H–
+RMAJORZ
+CODE_SMELL
+m
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(ÉÕ‡Æ8Óù¬×Ó,HÃ
+RMAJORZ
+CODE_SMELL
+m
+squid:S106­"9Replace this use of System.out or System.err by a logger.(Ä×ä¥8«Ü¿Ó,H­
+RMAJORZ
+CODE_SMELL
+†
+squid:S128)"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8¡èĞ×Ó,H²
+RBLOCKERZ
+CODE_SMELL
+r
+squid:S106Á"9Replace this use of System.out or System.err by a logger.(‚è¹êÿÿÿÿÿ8‰¾ÅÙÓ,HÅRMAJORZ
+CODE_SMELL
+m
+squid:S106÷"9Replace this use of System.out or System.err by a logger.(»· ô8ıËÚÓ,H¾RMAJORZ
+CODE_SMELL
+r
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(¾±Çøÿÿÿÿ8Óù¬×Ó,Hµ
+RMAJORZ
+CODE_SMELL
+gsquid:S1199È"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8‰¾ÅÙÓ,HÁRMINORZ
+CODE_SMELL
+r
+squid:S106™"9Replace this use of System.out or System.err by a logger.(øÿ®Ïúÿÿÿÿ8Óù¬×Ó,HÒ
+RMAJORZ
+CODE_SMELL
+l
+squid:S106["9Replace this use of System.out or System.err by a logger.(ÂƒçË8‰¾ÅÙÓ,HÒRMAJORZ
+CODE_SMELL
+m
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(¤¥»Ç8ùì´ÚÓ,HšRMAJORZ
+CODE_SMELL
+r
+squid:S106²"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ıÿÿÿÿ8—ÿğÙÓ,HıRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ıÿÿÿÿ8‰¾ÅÙÓ,HáRMAJORZ
+CODE_SMELL
+q
+squid:S106T"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ıÿÿÿÿ8°Ù‘Ó,HÈ
+RMAJORZ
+CODE_SMELL
+r
+squid:S106†"9Replace this use of System.out or System.err by a logger.(ËŠ”´ÿÿÿÿÿ8Óù¬×Ó,H’
+RMAJORZ
+CODE_SMELL
+fsquid:S1199a"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8Óù¬×Ó,H
+RMINORZ
+CODE_SMELL
+‹squid:S11920"ODefine a constant instead of duplicating this literal "Invalid choice" 4 times.(ËŠ”´ÿÿÿÿÿ8‰¾ÅÙÓ,H·RCRITICALZ
+CODE_SMELL
+m
+squid:S106×"9Replace this use of System.out or System.err by a logger.(¥ÙÄ¡8‰¾ÅÙÓ,HÉRMAJORZ
+CODE_SMELL
+bsquid:S1199é"-Extract this nested code block into a method.(Ó‚ï8‰¾ÅÙÓ,HÂRMINORZ
+CODE_SMELL
+asquid:S1199"-Extract this nested code block into a method.(Ó‚ï8‰¾ÅÙÓ,H¿RMINORZ
+CODE_SMELL
+gsquid:S1199ï"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8½çÑÖÓ,H¯
+RMINORZ
+CODE_SMELL
+m
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(çãí©8İíè’Ó,H¹
+RMAJORZ
+CODE_SMELL
+k
+squid:S106@"9Replace this use of System.out or System.err by a logger.(®ïŞ+8Óù¬×Ó,HÂ
+RMAJORZ
+CODE_SMELL
+r
+squid:S106ğ"9Replace this use of System.out or System.err by a logger.(ËŠ”´ÿÿÿÿÿ8«Ü¿Ó,H¦RMAJORZ
+CODE_SMELL
+m
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(Ä×ä¥8Óù¬×Ó,H¬
+RMAJORZ
+CODE_SMELL
+¨squid:S1192A"lDefine a constant instead of duplicating this literal "||        What would you like to do      ||" 6 times.(Òíİüÿÿÿÿ8Óù¬×Ó,HÎ
+RCRITICALZ
+CODE_SMELL
+gsquid:S1199²"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8Óù¬×Ó,HÖ
+RMINORZ
+CODE_SMELL
+q
+squid:S106z"9Replace this use of System.out or System.err by a logger.(ïïªÎøÿÿÿÿ8‰¾ÅÙÓ,HÈRMAJORZ
+CODE_SMELL
+gsquid:S1199¼"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8İó°°Ó,H»
+RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡ò¢‚8‰¾ÅÙÓ,HÎRMAJORZ
+CODE_SMELL
+r
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ıÿÿÿÿ8‰¾ÅÙÓ,HÊRMAJORZ
+CODE_SMELL
+fsquid:S1199M"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8°‘Ì°Ó,H“
+RMINORZ
+CODE_SMELL
+gsquid:S1199Ë"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8‰¾ÅÙÓ,H¼RMINORZ
+CODE_SMELL
+gsquid:S1199£"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8Óù¬×Ó,H
+RMINORZ
+CODE_SMELL
+j
+squid:S106C"9Replace this use of System.out or System.err by a logger.(øÿ®ÏúÿÿÿÿHÑ
+RMAJORZ
+CODE_SMELL
+r
+squid:S106­"9Replace this use of System.out or System.err by a logger.(øÿ®Ïúÿÿÿÿ8‰¾ÅÙÓ,HÙRMAJORZ
+CODE_SMELL
+r
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(ßÛğŠşÿÿÿÿ8°Ù‘Ó,HÄ
+RMAJORZ
+CODE_SMELL
+{squid:UselessImportCheck":Remove this unused import 'com.animalshelter.manager.Dog'.(ÈÙ…á8Œ¿Ì®Ó,Hº
+RMINORZ
+CODE_SMELL
+k
+squid:S106®"9Replace this use of System.out or System.err by a logger.(˜ğÂÍşÿÿÿÿH·
+RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ş½Šüÿÿÿÿ8Óù¬×Ó,H
+RMAJORZ
+CODE_SMELL
+m
+squid:S106™"9Replace this use of System.out or System.err by a logger.(ÍÑ®Ë8«Ü¿Ó,Hª
+RMAJORZ
+CODE_SMELL
+…squid:S1301±"KReplace this "switch" statement by "if" statements to increase readability.(Éöøÿÿÿÿ8Óù¬×Ó,HÊ
+RMINORZ
+CODE_SMELL
+m
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ÃõœÙ8Óù¬×Ó,H›
+RMAJORZ
+CODE_SMELL
+£squid:S1192["lDefine a constant instead of duplicating this literal "||    [5] - Return to Main Menu          ||" 3 times.(ÂƒçË8‡İÄÚÓ,HªRCRITICALZ
+CODE_SMELL
+l
+squid:S106W"9Replace this use of System.out or System.err by a logger.(¥Š÷®8‰¾ÅÙÓ,HÔRMAJORZ
+CODE_SMELL
+l
+squid:S106B"9Replace this use of System.out or System.err by a logger.(¥Š÷®8°Ù‘Ó,HÇ
+RMAJORZ
+CODE_SMELL
+fsquid:S1199r"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8‰¾ÅÙÓ,H½RMINORZ
+CODE_SMELL
+r
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(ºñ¹ùÿÿÿÿ8‰¾ÅÙÓ,HÕRMAJORZ
+CODE_SMELL
+r
+squid:S106ó"9Replace this use of System.out or System.err by a logger.(ÿÑ•úÿÿÿÿ8ıËÚÓ,H½RMAJORZ
+CODE_SMELL
+m
+squid:S106›"9Replace this use of System.out or System.err by a logger.(Êø¼î8Óù¬×Ó,Hš
+RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûöÍÚHË
+RMAJORZ
+CODE_SMELL
+„squid:S1301G"KReplace this "switch" statement by "if" statements to increase readability.(Éöøÿÿÿÿ8½çÑÖÓ,H¸
+RMINORZ
+CODE_SMELL
+r
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(ºñ¹ùÿÿÿÿ8Óù¬×Ó,H¼
+RMAJORZ
+CODE_SMELL
+r
+squid:S106Ò"9Replace this use of System.out or System.err by a logger.(„¯©ûÿÿÿÿ8‡İÄÚÓ,H¬RMAJORZ
+CODE_SMELL
+r
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(Òíİüÿÿÿÿ8°Ù‘Ó,H®
+RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Åà˜Ç8ê¡°Ó,H
+RMAJORZ
+CODE_SMELL
+r
+squid:S106°"9Replace this use of System.out or System.err by a logger.(†–şşÿÿÿÿ8€ù»ÚÓ,H RMAJORZ
+CODE_SMELL
+r
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ıÿÿÿÿ8°Ù‘Ó,HÅ
+RMAJORZ
+CODE_SMELL
+~squid:UselessImportCheck"=Remove this unused import 'com.animalshelter.manager.Animal'.(±ÉÃÀ8ê¡°Ó,HÔ
+RMINORZ
+CODE_SMELL
+q
+squid:S106\"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ıÿÿÿÿ8Óù¬×Ó,H©
+RMAJORZ
+CODE_SMELL
+r
+squid:S106—"9Replace this use of System.out or System.err by a logger.(Òíİüÿÿÿÿ8º‰û®Ó,H˜
+RMAJORZ
+CODE_SMELL
+m
+squid:S106«"9Replace this use of System.out or System.err by a logger.(À øâ8«Ü¿Ó,HÁ
+RMAJORZ
+CODE_SMELL
+…squid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Éöøÿÿÿÿ8‰¾ÅÙÓ,HÃRMINORZ
+CODE_SMELL
+q
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ËŠ”´ÿÿÿÿÿ8Óù¬×Ó,H½
+RMAJORZ
+CODE_SMELL
+j
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(”‚ÿ·øÿÿÿÿH´
+RMAJORZ
+CODE_SMELL
+e
+squid:S106i"9Replace this use of System.out or System.err by a logger.(œ÷‚›H”
+RMAJORZ
+CODE_SMELL
+m
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(ÂƒçË8Óù¬×Ó,H©RMAJORZ
+CODE_SMELL
+r
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(¦«àÿÿÿÿÿ8‰¾ÅÙÓ,HØRMAJORZ
+CODE_SMELL
+bsquid:S1199â"-Extract this nested code block into a method.(ÎŞèº8Óù¬×Ó,H±
+RMINORZ
+CODE_SMELL
+r
+squid:S106®"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ıÿÿÿÿ8«Ü¿Ó,H£
+RMAJORZ
+CODE_SMELL
+q
+squid:S106X"9Replace this use of System.out or System.err by a logger.(­ôÜïıÿÿÿÿ8‰¾ÅÙÓ,HÇRMAJORZ
+CODE_SMELL
+r
+squid:S106©"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ıÿÿÿÿ8°Ù‘Ó,HÍ
+RMAJORZ
+CODE_SMELL
+r
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ıÿÿÿÿ8Óù¬×Ó,H¨
+RMAJORZ
+CODE_SMELL
+r
+squid:S106•"9Replace this use of System.out or System.err by a logger.(¬‘‡¾ıÿÿÿÿ8°Ù‘Ó,HŸ
+RMAJORZ
+CODE_SMELL
+v"squid:SwitchLastCaseIsDefaultCheck±""Add a default case to this switch.(Éöøÿÿÿÿ8½çÑÖÓ,HÆ
+RCRITICALZ
+CODE_SMELL
+gsquid:S1199Û"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8ıËÚÓ,H¼RMINORZ
+CODE_SMELL
+l
+squid:S106|"9Replace this use of System.out or System.err by a logger.(ÊÄ‰‘8‰¾ÅÙÓ,HÑRMAJORZ
+CODE_SMELL
+gsquid:S1199Ü"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8€ù»ÚÓ,HŸRMINORZ
+CODE_SMELL
+l
+squid:S106—"9Replace this use of System.out or System.err by a logger.(Ÿ¬Ï]8’«™×Ó,HÀ
+RMAJORZ
+CODE_SMELL
+r
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(ãí“ôüÿÿÿÿ8Óù¬×Ó,HÏ
+RMAJORZ
+CODE_SMELL
+squid:S1192|"YDefine a constant instead of duplicating this literal ": Yum yum yum deliciouso" 3 times.(ÊÄ‰‘8ıËÚÓ,H»RCRITICALZ
+CODE_SMELL
+r
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(óçÆûÿÿÿÿ8«Ü¿Ó,H§RMAJORZ
+CODE_SMELL
+l
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(¾ê‰“8«êú¾Ó,H¾
+RMAJORZ
+CODE_SMELL
+r
+squid:S106É"9Replace this use of System.out or System.err by a logger.(ô¦ªáşÿÿÿÿ8‰¾ÅÙÓ,HÆRMAJORZ
+CODE_SMELL
+r
+squid:S106À"9Replace this use of System.out or System.err by a logger.(Òíİüÿÿÿÿ8‰¾ÅÙÓ,HĞRMAJORZ
+CODE_SMELL
+r
+squid:S106İ"9Replace this use of System.out or System.err by a logger.(‰•Ş³úÿÿÿÿ8Óù¬×Ó,H¶
+RMAJORZ
+CODE_SMELL
+q
+squid:S106m"9Replace this use of System.out or System.err by a logger.(‚¤³ªûÿÿÿÿ8Óù¬×Ó,H¢
+RMAJORZ
+CODE_SMELL
+k
+squid:S106…"9Replace this use of System.out or System.err by a logger.(úÕè“ıÿÿÿÿH¡
+RMAJORZ
+CODE_SMELL
+u"squid:SwitchLastCaseIsDefaultCheckG""Add a default case to this switch.(Éöøÿÿÿÿ8‰¾ÅÙÓ,H¶RCRITICALZ
+CODE_SMELL
+gsquid:S1199…"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8Óù¬×Ó,HÉ
+RMINORZ
+CODE_SMELL
+l
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ÚÍÔÉ8Óù¬×Ó,H¤
+RMAJORZ
+CODE_SMELL
+q
+squid:S106A"9Replace this use of System.out or System.err by a logger.(Òíİüÿÿÿÿ8Óù¬×Ó,H™
+RMAJORZ
+CODE_SMELL

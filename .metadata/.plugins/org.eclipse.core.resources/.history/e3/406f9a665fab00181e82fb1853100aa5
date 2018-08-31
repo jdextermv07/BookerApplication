@@ -1,0 +1,40 @@
+package controller;
+
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+
+import model.Customer;
+import service.CustomerService;
+
+public class CustomerController {
+
+	private CustomerService customerService;
+
+	public CustomerController(CustomerService customerService) {
+		super();
+		this.customerService = customerService;
+	}
+	
+	@GetMapping
+	public Iterable<Customer> getAllCustomer(){
+		return customerService.findAll();
+	}
+	
+	@PostMapping
+	public Customer saveCustomer(@RequestBody Customer customer) {
+		return customerService.saveCustomer(customer);
+	}
+	
+	@DeleteMapping("/{customerID}")
+	public void deleteCustomer(@PathVariable ("customerId") int customerId) {
+		customerService.deleteCustomer(customerService.findById(customerId));
+	}
+	
+	@GetMapping("/{customerID}")
+	public Customer findCustomer(@PathVariable ("customerId") int customerId) {
+		return customerService.findById(customerId);
+	}
+}

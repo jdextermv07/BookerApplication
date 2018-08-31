@@ -1,0 +1,55 @@
+
+’squid:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØìÍóøÿÿÿÿ8¿Û¦çÓ,Hú&RMINORZ
+CODE_SMELL
+tsquid:S2095E"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÃÇÍú8éçÓ„Ô,Hû&RBLOCKERZBUG
+]squid:S1481F")Remove this unused "next" local variable.(¥“Øƒ8îÄ³æÓ,Hü&RMINORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ööÌ©8éçÓ„Ô,Hı&RMINORZ
+CODE_SMELL
+_squid:S1481x"+Remove this unused "toNext" local variable.(±¶±…8éçÓ„Ô,Hş&RMINORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8ôÃí¥Õ,Hÿ&RMAJORZ
+CODE_SMELL
+squid:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").(ööÌ©8ó®œÜÓ,H€'RMINORZ
+CODE_SMELL
+ssquid:S2095O"EUse try-with-resources or close this "Scanner" in a "finally" clause.(±¯„8èÙÌçÓ,H'RBLOCKERZBUG
+nsquid:S1854":Remove this useless assignment to local variable "toNext".(±¶±…8éçÓ„Ô,H‚'RMAJORZ
+CODE_SMELL
+squid:S11922"RDefine a constant instead of duplicating this literal "An error occurred" 9 times.(«İïúÿÿÿÿ8Šä¥Õ,Hƒ'RCRITICALZ
+CODE_SMELL
+tsquid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8éçÓ„Ô,H„'RMINORZ
+CODE_SMELL
+r
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8ôÃí¥Õ,H…'RMAJORZ
+CODE_SMELL
+tsquid:S2095w"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÃÇÍú8úô˜ãÓ,H†'RBLOCKERZBUG
+q
+squid:S1066"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8Šä¥Õ,H‡'RMAJORZ
+CODE_SMELL
+usquid:S1854T"<Remove this useless assignment to local variable "nextline".(¥šêİşÿÿÿÿ8èÙÌçÓ,Hˆ'RMAJORZ
+CODE_SMELL
+_squid:S1481"+Remove this unused "toNext" local variable.(±¶±…8úô˜ãÓ,H‰'RMINORZ
+CODE_SMELL
+squid:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ƒ©8àŒÒçÓ,HŠ'RMINORZ
+CODE_SMELL
+q
+squid:S1062"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8Šä¥Õ,H‹'RMAJORZ
+CODE_SMELL
+q
+squid:S106b"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8Šä¥Õ,HŒ'RMAJORZ
+CODE_SMELL
+fsquid:S1481T"-Remove this unused "nextline" local variable.(¥šêİşÿÿÿÿ8èÙÌçÓ,H'RMINORZ
+CODE_SMELL
+nsquid:S1854x":Remove this useless assignment to local variable "toNext".(±¶±…8úô˜ãÓ,H'RMAJORZ
+CODE_SMELL
+tsquid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÃÇÍú8îÄ³æÓ,H'RBLOCKERZBUG
+q
+squid:S106f"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8ôÃí¥Õ,H'RMAJORZ
+CODE_SMELL
+…squid:S11921"ODefine a constant instead of duplicating this literal "File not found" 3 times.(ıï©=8Šä¥Õ,H‘'RCRITICALZ
+CODE_SMELL
+lsquid:S1854F"8Remove this useless assignment to local variable "next".(¥“Øƒ8îÄ³æÓ,H’'RMAJORZ
+CODE_SMELL
+psquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8éçÓ„Ô,H“'RMINORZ
+CODE_SMELL

@@ -1,0 +1,25 @@
+package com.pw.io.booker.service;
+
+import com.pw.io.booker.model.Feedback;
+import com.pw.io.booker.model.Reservation;
+import com.pw.io.booker.repository.map.FeedbackRepositoryList;
+
+public class FeedbackService {
+
+	private FeedbackRepositoryList feedbackRepositoryList;
+	private ReservationService reservationService;
+	
+	public FeedbackService() {
+		feedbackRepositoryList = new FeedbackRepositoryList();
+		reservationService = new ReservationService();
+	}
+	
+	public Feedback addFeedBack(int reservationId, String feebackMessage, int rating) {
+		Reservation reservation = reservationService.findById(reservationId);
+		Feedback feedback = new Feedback();
+		feedback.setFeedback(feebackMessage);
+		feedback.setReservation(reservation);
+		feedback.setRate(rating);
+		return feedbackRepositoryList.save(feedback);
+	}
+}

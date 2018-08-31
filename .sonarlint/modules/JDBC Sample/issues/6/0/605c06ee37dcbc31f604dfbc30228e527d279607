@@ -1,0 +1,15 @@
+
+‡squid:S2068"U'password' detected in this expression, review this potentially hardcoded credential.(Œ…ÂºH¡(RBLOCKERZVULNERABILITY
+Nsquid:S1170"!Make this final field static too.(Œ…ÂºH¤(RMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨µÃ‘øÿÿÿÿH£(RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿH¥(RMAJORZ
+CODE_SMELL
+Ssquid:S1170
+"!Make this final field static too.(ºÄÌÚûÿÿÿÿH¦(RMINORZ
+CODE_SMELL
+Ssquid:S1170	"!Make this final field static too.(©Ì¿ÅûÿÿÿÿH¢(RMINORZ
+CODE_SMELL

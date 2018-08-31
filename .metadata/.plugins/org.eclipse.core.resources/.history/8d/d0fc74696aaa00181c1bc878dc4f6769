@@ -1,0 +1,53 @@
+package com.pw.io.booker.repository.list;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+import org.springframework.stereotype.Repository;
+
+import com.pw.io.booker.model.TravelItem;
+
+@Repository ("tirl")
+public class TravelItemRepositoryList {
+
+	private List<TravelItem> itemList = new ArrayList<>();
+	private int serviceIdGenerator = 1000;
+
+	
+	public List<TravelItem> findAll() {
+		return itemList;
+	}
+
+	
+	public TravelItem find(int id) {
+		for (TravelItem service : itemList) {
+			if (id == service.getItemId()) {
+				return service;
+			}
+		}
+		return null;
+	}
+	
+	public TravelItem save(TravelItem model) {
+		if (find(model.getItemId()) != null) {
+			itemList.add(model);
+		}
+		model.setItemId(serviceIdGenerator++);
+		itemList.add(model);
+		return model;
+	}
+
+	
+	public TravelItem delete(TravelItem model) {
+		for (Iterator<TravelItem> iter = itemList.iterator(); iter.hasNext();) {
+			TravelItem service = iter.next();
+			if (model.getItemId() == service.getItemId()) {
+				iter.remove();
+				return service;
+			}
+		}
+		return null;
+	}
+
+}

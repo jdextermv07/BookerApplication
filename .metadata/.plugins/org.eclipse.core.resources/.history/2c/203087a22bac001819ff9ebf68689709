@@ -1,0 +1,16 @@
+package com.example.demo.service;
+
+import com.example.demo.repository.TravelPackageRepository;
+
+public class TravelPackageService {
+
+	TravelPackageRepository travelPackageService;
+
+	public TravelPackageService(TravelPackageRepository travelPackageService) {
+		super();
+		this.travelPackageService = travelPackageService;
+	}
+	
+	
+	
+}

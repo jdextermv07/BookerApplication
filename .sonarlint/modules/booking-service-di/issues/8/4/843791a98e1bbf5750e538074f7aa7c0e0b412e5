@@ -1,0 +1,24 @@
+
+qsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÿí Ø,H±9RMINORZ
+CODE_SMELL
+qsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÿí Ø,H²9RMINORZ
+CODE_SMELL
+Œsquid:UselessImportCheck"KRemove this unused import 'com.pw.io.booker.repository.FeedbackRepository'.(·Ô±˜8ÿí Ø,H³9RMINORZ
+CODE_SMELL
+…squid:UselessImportCheck"?Remove this unused import 'com.pw.io.booker.model.Reservation'.(ğÏËçúÿÿÿÿ8ÿí Ø,H´9RMINORZ
+CODE_SMELL
+‡squid:UselessImportCheck"GRemove this unused import 'com.pw.io.booker.service.TravelItemService'.(¼¶çH8ÿí Ø,Hµ9RMINORZ
+CODE_SMELL
+„squid:UselessImportCheck">Remove this unused import 'com.pw.io.booker.model.TravelItem'.(Éº¾×ûÿÿÿÿ8ÿí Ø,H¶9RMINORZ
+CODE_SMELL
+ˆsquid:UselessImportCheck"GRemove this unused import 'org.springframework.boot.CommandLineRunner'.(È—ÿÅ8ÿí Ø,H·9RMINORZ
+CODE_SMELL
+Šsquid:UselessImportCheck"DRemove this unused import 'com.pw.io.booker.util.BookerServiceUtil'.(ˆ…ÑÆıÿÿÿÿ8ÿí Ø,H¸9RMINORZ
+CODE_SMELL
+Œsquid:UselessImportCheck	"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿8ÿí Ø,H¹9RMINORZ
+CODE_SMELL
+‰squid:UselessImportCheck
+"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8ÿí Ø,Hº9RMINORZ
+CODE_SMELL
+squid:UselessImportCheck"HRemove this unused import 'com.pw.io.booker.service.ReservationService'.(Ø†©ûÿÿÿÿ8ÿí Ø,H»9RMINORZ
+CODE_SMELL

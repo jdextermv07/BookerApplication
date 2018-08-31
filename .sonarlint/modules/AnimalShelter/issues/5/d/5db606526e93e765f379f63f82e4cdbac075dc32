@@ -1,0 +1,7 @@
+
+Usquid:S1643!"Use a StringBuilder instead.(×ŞûÖúÿÿÿÿ8­¸Â×Ó,HRMINORZ
+CODE_SMELL
+qsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8§û²ØÓ,HRMINORZ
+CODE_SMELL
+psquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8§û²ØÓ,HRMINORZ
+CODE_SMELL

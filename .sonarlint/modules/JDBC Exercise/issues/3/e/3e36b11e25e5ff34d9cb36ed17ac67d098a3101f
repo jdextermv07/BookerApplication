@@ -1,0 +1,24 @@
+
+Ésquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÏ‚ 8¶ﬂà¢÷,H√(RMINORZ
+CODE_SMELL
+Üsquid:S00117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûı∑è8¶ﬂà¢÷,HÕ(RMINORZ
+CODE_SMELL
+Ésquid:S00100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ñ‚Ñ8¶ﬂà¢÷,H»(RMINORZ
+CODE_SMELL
+ãsquid:S00116"VRename this field "rental_rate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Œ˜ª8¶ﬂà¢÷,H (RMINORZ
+CODE_SMELL
+èsquid:S00116
+"ZRename this field "special_feature" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(◊ﬂ√ˇ8¶ﬂà¢÷,HÀ(RMINORZ
+CODE_SMELL
+Ésquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û˜Íç8¶ﬂà¢÷,H≈(RMINORZ
+CODE_SMELL
+Ésquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˚£Æ∆8¶ﬂà¢÷,Hƒ(RMINORZ
+CODE_SMELL
+Üsquid:S00117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ñ‚Ñ8¶ﬂà¢÷,HŒ(RMINORZ
+CODE_SMELL
+Ésquid:S00100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûı∑è8¶ﬂà¢÷,H∆(RMINORZ
+CODE_SMELL
+Üsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˚£Æ∆8¶ﬂà¢÷,HÃ(RMINORZ
+CODE_SMELL
+àsquid:S00100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ŒËâ¸ˇˇˇˇ8¶ﬂà¢÷,H«(RMINORZ
+CODE_SMELL

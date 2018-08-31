@@ -1,0 +1,16 @@
+package com.pw.io.booker;
+
+import org.springframework.context.annotation.Configuration;
+
+public class BookerServiceAnnotation {
+
+	@Configuration
+	@ComponentsScan
+	
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

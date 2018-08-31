@@ -1,0 +1,120 @@
+
+bsquid:S1481"-Remove this unused "nextline" local variable.(ÎáÕ8ÔÌü‘Ô,H°+RMINORZ
+CODE_SMELL
+squid:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ƒ©8ö˜š“Ô,H±+RMINORZ
+CODE_SMELL
+“squid:S2293à"YReplace the type specification in this constructor call with the diamond operator ("<>").(şÖà½øÿÿÿÿ8ÔÌü‘Ô,H²+RMINORZ
+CODE_SMELL
+squid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ƒ©8ÖÍÅ‚Ô,H³+RMINORZ
+CODE_SMELL
+r
+squid:S106”"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8óøß¥Õ,H´+RMAJORZ
+CODE_SMELL
+…squid:S1192'"ODefine a constant instead of duplicating this literal "File not found" 8 times.(ıï©=8óøß¥Õ,Hµ+RCRITICALZ
+CODE_SMELL
+q
+squid:S106K"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8óøß¥Õ,H¶+RMAJORZ
+CODE_SMELL
+]squid:S1481")Remove this unused "next" local variable.(¥“Øƒ8Û¾Ô‚Ô,H·+RMINORZ
+CODE_SMELL
+q
+squid:S106r"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8óøß¥Õ,H¸+RMAJORZ
+CODE_SMELL
+nsquid:S1854`":Remove this useless assignment to local variable "toNext".(±¶±…8ö˜š“Ô,H¹+RMAJORZ
+CODE_SMELL
+q
+squid:S106("9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8óøß¥Õ,Hº+RMAJORZ
+CODE_SMELL
+]squid:S1481=")Remove this unused "next" local variable.(¥“Øƒ8ÔÌü‘Ô,H»+RMINORZ
+CODE_SMELL
+`squid:S1481¥"+Remove this unused "toNext" local variable.(±¶±…8ö˜š“Ô,H¼+RMINORZ
+CODE_SMELL
+squid:S1192("SDefine a constant instead of duplicating this literal "An error occurred" 24 times.(«İïúÿÿÿÿ8óøß¥Õ,H½+RCRITICALZ
+CODE_SMELL
+osquid:S1854æ":Remove this useless assignment to local variable "toNext".(±¶±…8ŞŠÅÔ,H¾+RMAJORZ
+CODE_SMELL
+usquid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Î¦½ô8Ä¢–ãÓ,H¿+RBLOCKERZBUG
+qsquid:S1854"<Remove this useless assignment to local variable "nextline".(ÎáÕ8ÔÌü‘Ô,HÀ+RMAJORZ
+CODE_SMELL
+squid:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ƒ©8Áš­†Ô,HÁ+RMINORZ
+CODE_SMELL
+zsquid:S2095™"EUse try-with-resources or close this "Scanner" in a "finally" clause.(—›ù¥ÿÿÿÿÿ8ÔÌü‘Ô,HÂ+RBLOCKERZBUG
+lsquid:S1854"8Remove this useless assignment to local variable "next".(¥“Øƒ8Û¾Ô‚Ô,HÃ+RMAJORZ
+CODE_SMELL
+osquid:S1854‚":Remove this useless assignment to local variable "toNext".(±¶±…8ÖÂàÔ,HÄ+RMAJORZ
+CODE_SMELL
+squid:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆÇ‚ª8ÔÌü‘Ô,HÅ+RMINORZ
+CODE_SMELL
+`squid:S1481æ"+Remove this unused "toNext" local variable.(±¶±…8ÖÂàÔ,HÆ+RMINORZ
+CODE_SMELL
+csquid:S1481‘")Remove this unused "next" local variable.(íœÈøÿÿÿÿ8Û¾Ô‚Ô,HÇ+RMINORZ
+CODE_SMELL
+r
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8õÉâ¥Õ,HÈ+RMAJORZ
+CODE_SMELL
+‡squid:S1192"PDefine a constant instead of duplicating this literal "actor-table.txt" 5 times.(”‘¡•8Áš­†Ô,HÉ+RCRITICALZ
+CODE_SMELL
+usquid:S2095¤"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÃÇÍú8ŞŠÅÔ,HÊ+RBLOCKERZBUG
+r
+squid:S106û"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8õÉâ¥Õ,HË+RMAJORZ
+CODE_SMELL
+q
+squid:S106n"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8óøß¥Õ,HÌ+RMAJORZ
+CODE_SMELL
+tsquid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÃÇÍú8Üó†Ô,HÍ+RBLOCKERZBUG
+lsquid:S1854="8Remove this useless assignment to local variable "next".(¥“Øƒ8Û¾Ô‚Ô,HÎ+RMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ööÌ©8ÔÌü‘Ô,HÏ+RMINORZ
+CODE_SMELL
+`squid:S1481Å"+Remove this unused "toNext" local variable.(±¶±…8Áš­†Ô,HĞ+RMINORZ
+CODE_SMELL
+r
+squid:S106×"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8õÉâ¥Õ,HÑ+RMAJORZ
+CODE_SMELL
+r
+squid:S106±"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8óøß¥Õ,HÒ+RMAJORZ
+CODE_SMELL
+^squid:S1481¡")Remove this unused "temp" local variable.(æÙíÓ8®µÃ¼Ô,HÓ+RMINORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8óøß¥Õ,HÔ+RMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").( ±¾¨8Üó†Ô,HÕ+RMINORZ
+CODE_SMELL
+usquid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÃÇÍú8Áš­†Ô,HÖ+RBLOCKERZBUG
+tsquid:S2095_"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÃÇÍú8ÖÍÅ‚Ô,H×+RBLOCKERZBUG
+q
+squid:S106O"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8óøß¥Õ,HØ+RMAJORZ
+CODE_SMELL
+q
+squid:S106,"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8óøß¥Õ,HÙ+RMAJORZ
+CODE_SMELL
+r
+squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8õÉâ¥Õ,HÚ+RMAJORZ
+CODE_SMELL
+osquid:S1854¥":Remove this useless assignment to local variable "toNext".(±¶±…8Áš­†Ô,HÛ+RMAJORZ
+CODE_SMELL
+osquid:S1854Å":Remove this useless assignment to local variable "toNext".(±¶±…8ÔÌü‘Ô,HÜ+RMAJORZ
+CODE_SMELL
+r
+squid:S106±"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8õÉâ¥Õ,Hİ+RMAJORZ
+CODE_SMELL
+`squid:S1481‚"+Remove this unused "toNext" local variable.(±¶±…8ŞŠÅÔ,HŞ+RMINORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ƒ©8²şƒàÓ,Hß+RMINORZ
+CODE_SMELL
+rsquid:S1854‘"8Remove this useless assignment to local variable "next".(íœÈøÿÿÿÿ8ÔÌü‘Ô,Hà+RMAJORZ
+CODE_SMELL
+“squid:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª»ÿëùÿÿÿÿ8ÖÂàÔ,Há+RMINORZ
+CODE_SMELL
+usquid:S2095Ä"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÃÇÍú8ö˜š“Ô,Hâ+RBLOCKERZBUG
+r
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8õÉâ¥Õ,Hã+RMAJORZ
+CODE_SMELL
+usquid:S2095å"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÃÇÍú8ÔÌü‘Ô,Hä+RBLOCKERZBUG
+tsquid:S2095<"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÃÇÍú8ÔÌü‘Ô,Hå+RBLOCKERZBUG
+_squid:S1481`"+Remove this unused "toNext" local variable.(±¶±…8ÔÌü‘Ô,Hæ+RMINORZ
+CODE_SMELL
+r
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(«İïúÿÿÿÿ8õÉâ¥Õ,Hç+RMAJORZ
+CODE_SMELL

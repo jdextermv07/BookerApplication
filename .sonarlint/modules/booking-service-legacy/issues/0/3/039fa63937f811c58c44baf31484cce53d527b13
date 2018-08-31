@@ -1,0 +1,6 @@
+
+q
+squid:S106#"9Replace this use of System.out or System.err by a logger.(şÒãûÿÿÿÿ8ÛŸàò×,HÏ0RMAJORZ
+CODE_SMELL
+{squid:UselessImportCheck":Remove this unused import 'com.pw.io.config.BookerConfig'.(ò§Ôİ8ãÇƒó×,H²1RMINORZ
+CODE_SMELL

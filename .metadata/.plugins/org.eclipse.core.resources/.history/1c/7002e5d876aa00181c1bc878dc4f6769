@@ -1,0 +1,25 @@
+package com.pw.io.booker.controller;
+
+import java.util.List;
+
+import org.springframework.stereotype.Controller;
+
+import com.pw.io.booker.model.TravelPackage;
+import com.pw.io.booker.service.TravelPackageService;
+
+@Controller
+public class BookerController {
+	
+	
+
+@RequestMapping("/showpackage")
+@ResponseBody
+public  List<TravelPackage> showpackage() {
+	
+	
+}
+
+	
+}
+
+

@@ -1,0 +1,14 @@
+package com.example.demo.model;
+
+import java.util.List;
+
+public class TravelPackage {
+
+	int travelpackageId;
+	String packageName;
+	List<Service> availableServiceList;
+	List<Image> images;
+	String description;
+	
+	
+}

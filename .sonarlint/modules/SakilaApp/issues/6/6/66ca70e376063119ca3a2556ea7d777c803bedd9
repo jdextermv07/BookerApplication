@@ -1,0 +1,278 @@
+
+q
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(û£Æºıÿÿÿÿ8¶éØ„Ô,Hş RMAJORZ
+CODE_SMELL
+squid:S1192­"JDefine a constant instead of duplicating this literal "Address: " 3 times.(ãİÚ#8İú¯»Ô,Hè RCRITICALZ
+CODE_SMELL
+m
+squid:S106›"9Replace this use of System.out or System.err by a logger.(Ùğƒì8ÔÀÎ±Ô,H²!RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(×·•×8ï™Ç„Ô,H‚!RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ìâ“ê8õ¦Á’Ô,H§!RMAJORZ
+CODE_SMELL
+l
+squid:S106f"9Replace this use of System.out or System.err by a logger.(¬Î¦Õ8õ¦Á’Ô,Hö RMAJORZ
+CODE_SMELL
+˜squid:S1192©"[Define a constant instead of duplicating this literal "==========================" 6 times.(Åá—•şÿÿÿÿ8ûìıµÔ,H¤!RCRITICALZ
+CODE_SMELL
+q
+squid:S106W"9Replace this use of System.out or System.err by a logger.(ŸÓÓ¦şÿÿÿÿ8õ¦Á’Ô,H·!RMAJORZ
+CODE_SMELL
+ƒsquid:S1192«"LDefine a constant instead of duplicating this literal "Last Name: " 3 times.(²Ú—O8İú¯»Ô,Hê RCRITICALZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ªù‡8õ¦Á’Ô,HÇ!RMAJORZ
+CODE_SMELL
+m
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(°¾ÑÛ8‹¼Ô,H!RMAJORZ
+CODE_SMELL
+m
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(ˆ–Ëë8İú¯»Ô,HË!RMAJORZ
+CODE_SMELL
+q
+squid:S106l"9Replace this use of System.out or System.err by a logger.(•¸Æ¨ûÿÿÿÿ8¾´ôÜÓ,H”!RMAJORZ
+CODE_SMELL
+q
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ŸÓÓ¦şÿÿÿÿ8¿Øš¬Ô,H!RMAJORZ
+CODE_SMELL
+Šsquid:S1192ª"MDefine a constant instead of duplicating this literal "First Name: " 3 times.(ĞÆ‰âùÿÿÿÿ8İú¯»Ô,Hç RCRITICALZ
+CODE_SMELL
+squid:S1192¬"PDefine a constant instead of duplicating this literal "Email Address: " 3 times.(€­áóùÿÿÿÿ8İú¯»Ô,H³!RCRITICALZ
+CODE_SMELL
+r
+squid:S106©"9Replace this use of System.out or System.err by a logger.(Åá—•şÿÿÿÿ8àä»„Ô,H—!RMAJORZ
+CODE_SMELL
+r
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(€­áóùÿÿÿÿ8ëİµÔ,HÁ!RMAJORZ
+CODE_SMELL
+r
+squid:S106·"9Replace this use of System.out or System.err by a logger.(ÄÃƒ üÿÿÿÿ8ï™Ç„Ô,H¶!RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬§ü8õ¦Á’Ô,H©!RMAJORZ
+CODE_SMELL
+q
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ŸÓÓ¦şÿÿÿÿ8ûìıµÔ,H¾!RMAJORZ
+CODE_SMELL
+r
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(¯ë…Óûÿÿÿÿ8ûìıµÔ,H!RMAJORZ
+CODE_SMELL
+r
+squid:S106×"9Replace this use of System.out or System.err by a logger.(±Ì»³úÿÿÿÿ8İú¯»Ô,H¨!RMAJORZ
+CODE_SMELL
+l
+squid:S1068"9Replace this use of System.out or System.err by a logger.(½“îÜ8Ÿ“Ë€Ô,H !RMAJORZ
+CODE_SMELL
+m
+squid:S106š"9Replace this use of System.out or System.err by a logger.(ÿ¾Œë8µô…“Ô,H½!RMAJORZ
+CODE_SMELL
+r
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(ÍéÉıúÿÿÿÿ8ÛÑ¹²Ô,H‡!RMAJORZ
+CODE_SMELL
+q
+squid:S106]"9Replace this use of System.out or System.err by a logger.(ÄÃƒ üÿÿÿÿ8ûìıµÔ,H‘!RMAJORZ
+CODE_SMELL
+r
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(ÄÃƒ üÿÿÿÿ8âŒä€Ô,H!RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(°ğ€úÿÿÿÿ8°ØÇÜÓ,Hß RMAJORZ
+CODE_SMELL
+q
+squid:S106~"9Replace this use of System.out or System.err by a logger.(¯ë…Óûÿÿÿÿ8õ¦Á’Ô,Hû RMAJORZ
+CODE_SMELL
+q
+squid:S106$"9Replace this use of System.out or System.err by a logger.(°ğ€úÿÿÿÿ8¯¶ãÓ,Hª!RMAJORZ
+CODE_SMELL
+r
+squid:S106Ú"9Replace this use of System.out or System.err by a logger.(Åá—•şÿÿÿÿ8İú¯»Ô,HŒ!RMAJORZ
+CODE_SMELL
+q
+squid:S106j"9Replace this use of System.out or System.err by a logger.(Š¨ÉÅüÿÿÿÿ8âŒä€Ô,Hú RMAJORZ
+CODE_SMELL
+q
+squid:S106d"9Replace this use of System.out or System.err by a logger.(ŸÓÓ¦şÿÿÿÿ8£í‚Ô,HÆ!RMAJORZ
+CODE_SMELL
+…squid:S11928"NDefine a constant instead of duplicating this literal "Description: " 3 times.(½“îÜ8õ¦Á’Ô,H±!RCRITICALZ
+CODE_SMELL
+q
+squid:S106("9Replace this use of System.out or System.err by a logger.(÷âõ²øÿÿÿÿ8ù€¥“Ô,HÈ!RMAJORZ
+CODE_SMELL
+q
+squid:S106n"9Replace this use of System.out or System.err by a logger.(ŸÓÓ¦şÿÿÿÿ8ÔÀÎ±Ô,Hü RMAJORZ
+CODE_SMELL
+r
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(ÄÃƒ üÿÿÿÿ8İú¯»Ô,H¹!RMAJORZ
+CODE_SMELL
+q
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Š¨ÉÅüÿÿÿÿ8àä»„Ô,Hì RMAJORZ
+CODE_SMELL
+r
+squid:S106Á"9Replace this use of System.out or System.err by a logger.(€­áóùÿÿÿÿ8ûìıµÔ,H“!RMAJORZ
+CODE_SMELL
+q
+squid:S106|"9Replace this use of System.out or System.err by a logger.(ŸÓÓ¦şÿÿÿÿ8ˆÃ„Ô,Hµ!RMAJORZ
+CODE_SMELL
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÊÕ¼ä8ÔÀÎ±Ô,Hƒ!RMAJORZ
+CODE_SMELL
+l
+squid:S106g"9Replace this use of System.out or System.err by a logger.(½“îÜ8õ¦Á’Ô,H´!RMAJORZ
+CODE_SMELL
+k
+squid:S106i"9Replace this use of System.out or System.err by a logger.(ŠÃì%8õ¦Á’Ô,H¸!RMAJORZ
+CODE_SMELL
+q
+squid:S106."9Replace this use of System.out or System.err by a logger.(ÄÃƒ üÿÿÿÿ8İú¯»Ô,Hå RMAJORZ
+CODE_SMELL
+r
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(Åøºœúÿÿÿÿ8¦š¢“Ô,H„!RMAJORZ
+CODE_SMELL
+l
+squid:S106­"9Replace this use of System.out or System.err by a logger.(ãİÚ#8ÛÑ¹²Ô,H•!RMAJORZ
+CODE_SMELL
+q
+squid:S1069"9Replace this use of System.out or System.err by a logger.(û£Æºıÿÿÿÿ8ñ¸£áÓ,Há RMAJORZ
+CODE_SMELL
+m
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(Ïèø«8İú¯»Ô,H°!RMAJORZ
+CODE_SMELL
+q
+squid:S106h"9Replace this use of System.out or System.err by a logger.(û£Æºıÿÿÿÿ8õ¦Á’Ô,HÌ!RMAJORZ
+CODE_SMELL
+q
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¬„âãÿÿÿÿÿ8°ØÇÜÓ,Hó RMAJORZ
+CODE_SMELL
+k
+squid:S106R"9Replace this use of System.out or System.err by a logger.(ŠÃì%8¸”É‚Ô,HÉ!RMAJORZ
+CODE_SMELL
+r
+squid:S106“"9Replace this use of System.out or System.err by a logger.(‹ñÓŸşÿÿÿÿ8¨´—ƒÔ,H’!RMAJORZ
+CODE_SMELL
+l
+squid:S106À"9Replace this use of System.out or System.err by a logger.(²Ú—O8ûìıµÔ,Hÿ RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾©Ã‘8µô…“Ô,H!RMAJORZ
+CODE_SMELL
+r
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(ŸÓÓ¦şÿÿÿÿ8ÛÑ¹²Ô,H¡!RMAJORZ
+CODE_SMELL
+q
+squid:S106="9Replace this use of System.out or System.err by a logger.(•¸Æ¨ûÿÿÿÿ8¾´ôÜÓ,Hº!RMAJORZ
+CODE_SMELL
+tsquid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8¿¹®„Ô,H¬!RMINORZ
+CODE_SMELL
+l
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Ÿƒ¬Ç8¾´ôÜÓ,HÅ!RMAJORZ
+CODE_SMELL
+l
+squid:S1067"9Replace this use of System.out or System.err by a logger.(¬Î¦Õ8¡à˜„Ô,Hø RMAJORZ
+CODE_SMELL
+‡squid:S1192;"KDefine a constant instead of duplicating this literal "Starring: " 3 times.(Š¨ÉÅüÿÿÿÿ8õ¦Á’Ô,H¦!RCRITICALZ
+CODE_SMELL
+l
+squid:S1066"9Replace this use of System.out or System.err by a logger.(É‘8ŸŒ‚“Ô,H¥!RMAJORZ
+CODE_SMELL
+l
+squid:S106N"9Replace this use of System.out or System.err by a logger.(É‘8ÛÑ¹²Ô,H!RMAJORZ
+CODE_SMELL
+q
+squid:S106t"9Replace this use of System.out or System.err by a logger.(ÄÃƒ üÿÿÿÿ8°ØÇÜÓ,HÃ!RMAJORZ
+CODE_SMELL
+l
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(ãİÚ#8ûìıµÔ,HŠ!RMAJORZ
+CODE_SMELL
+’squid:S11925"VDefine a constant instead of duplicating this literal "=====================" 8 times.(ŸÓÓ¦şÿÿÿÿ8¶éØ„Ô,Hñ RCRITICALZ
+CODE_SMELL
+l
+squid:S106Ø"9Replace this use of System.out or System.err by a logger.(ãİÚ#8İú¯»Ô,H»!RMAJORZ
+CODE_SMELL
+q
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ÄÃƒ üÿÿÿÿ8¶éØ„Ô,Hã RMAJORZ
+CODE_SMELL
+l
+squid:S106O"9Replace this use of System.out or System.err by a logger.(¬Î¦Õ8¶éØ„Ô,Hı RMAJORZ
+CODE_SMELL
+l
+squid:S106""9Replace this use of System.out or System.err by a logger.(åğõ”8°ØÇÜÓ,H–!RMAJORZ
+CODE_SMELL
+r
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(Åá—•şÿÿÿÿ8ûìıµÔ,HÍ!RMAJORZ
+CODE_SMELL
+q
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Íûåëûÿÿÿÿ8¾´ôÜÓ,HÂ!RMAJORZ
+CODE_SMELL
+k
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ŠÃì%8àä»„Ô,HÀ!RMAJORZ
+CODE_SMELL
+r
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(ĞÆ‰âùÿÿÿÿ8ÔÀÎ±Ô,H…!RMAJORZ
+CODE_SMELL
+r
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(ÄÃƒ üÿÿÿÿ8¬ä§Ô,H‹!RMAJORZ
+CODE_SMELL
+r
+squid:S106²"9Replace this use of System.out or System.err by a logger.(Åá—•şÿÿÿÿ8ûìıµÔ,Hœ!RMAJORZ
+CODE_SMELL
+l
+squid:S106P"9Replace this use of System.out or System.err by a logger.(½“îÜ8àä»„Ô,H‰!RMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŒŞä±8¥¢»Ô,Hš!RMAJORZ
+CODE_SMELL
+l
+squid:S106«"9Replace this use of System.out or System.err by a logger.(²Ú—O8ÛÑ¹²Ô,H¢!RMAJORZ
+CODE_SMELL
+–squid:S1192."ZDefine a constant instead of duplicating this literal "Enter search parameters: " 8 times.(ÄÃƒ üÿÿÿÿ8«Ğ€Ô,H®!RCRITICALZ
+CODE_SMELL
+l
+squid:S106}"9Replace this use of System.out or System.err by a logger.(ŒŞä±8àä»„Ô,H€!RMAJORZ
+CODE_SMELL
+r
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(Åá—•şÿÿÿÿ8¦š¢“Ô,HÄ!RMAJORZ
+CODE_SMELL
+q
+squid:S106S"9Replace this use of System.out or System.err by a logger.(Š¨ÉÅüÿÿÿÿ8¶éØ„Ô,H¯!RMAJORZ
+CODE_SMELL
+r
+squid:S106™"9Replace this use of System.out or System.err by a logger.(ïÉç÷úÿÿÿÿ8¶éØ„Ô,H†!RMAJORZ
+CODE_SMELL
+q
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ŸÓÓ¦şÿÿÿÿ8ïë¥’Ô,H«!RMAJORZ
+CODE_SMELL
+‰squid:S1192:"SDefine a constant instead of duplicating this literal "Special Features: " 3 times.(ŠÃì%8õ¦Á’Ô,H™!RCRITICALZ
+CODE_SMELL
+r
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(——¦‚ıÿÿÿÿ8Ä€·‚Ô,H¼!RMAJORZ
+CODE_SMELL
+squid:S11927"HDefine a constant instead of duplicating this literal "Genre: " 3 times.(¬Î¦Õ8õ¦Á’Ô,Hî RCRITICALZ
+CODE_SMELL
+q
+squid:S106U"9Replace this use of System.out or System.err by a logger.(•¸Æ¨ûÿÿÿÿ8à¬ù’Ô,H!RMAJORZ
+CODE_SMELL
+r
+squid:S106€"9Replace this use of System.out or System.err by a logger.(‹ñÓŸşÿÿÿÿ8ù€¥“Ô,H¿!RMAJORZ
+CODE_SMELL
+squid:S11926"HDefine a constant instead of duplicating this literal "Title: " 3 times.(É‘8õ¦Á’Ô,H˜!RCRITICALZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.( Êò³8¾´ôÜÓ,H­!RMAJORZ
+CODE_SMELL
+l
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ó“À8«Ğ€Ô,HÊ!RMAJORZ
+CODE_SMELL
+r
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(Åá—•şÿÿÿÿ8¦š¢“Ô,H£!RMAJORZ
+CODE_SMELL
+r
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(ĞÆ‰âùÿÿÿÿ8ëİµÔ,H›!RMAJORZ
+CODE_SMELL
+l
+squid:S106e"9Replace this use of System.out or System.err by a logger.(É‘8ÔÀÎ±Ô,HŸ!RMAJORZ
+CODE_SMELL
+…squid:S11929"IDefine a constant instead of duplicating this literal "Rating: " 3 times.(û£Æºıÿÿÿÿ8õ¦Á’Ô,Hˆ!RCRITICALZ
+CODE_SMELL

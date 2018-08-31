@@ -1,0 +1,25 @@
+
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊµÄ³8ª²½Ô,H #RMINORZ
+CODE_SMELL
+squid:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊµÄ³8¬§—½Ô,H¡#RMINORZ
+CODE_SMELL
+~squid:HiddenFieldCheck"?Rename "mapFilmAct2" which hides the field declared at line 16.(ÊµÄ³8¬§—½Ô,H¢#RMAJORZ
+CODE_SMELL
+ƒsquid:HiddenFieldCheck4"?Rename "mapFilmAct1" which hides the field declared at line 17.(Ê°Œıÿÿÿÿ8¬§—½Ô,H£#RMAJORZ
+CODE_SMELL
+ƒsquid:HiddenFieldCheck*"?Rename "mapFilmAct1" which hides the field declared at line 17.(Ê°Œıÿÿÿÿ8¬§—½Ô,H¤#RMAJORZ
+CODE_SMELL
+†squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊµÄ³H¥#RMINORZ
+CODE_SMELL
+‹squid:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê°ŒıÿÿÿÿH¦#RMINORZ
+CODE_SMELL
+~squid:HiddenFieldCheck"?Rename "mapFilmAct2" which hides the field declared at line 16.(ÊµÄ³8¬§—½Ô,H§#RMAJORZ
+CODE_SMELL
+~squid:HiddenFieldCheck="?Rename "mapFilmAct2" which hides the field declared at line 16.(ÊµÄ³8¬§—½Ô,H¨#RMAJORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê°Œıÿÿÿÿ8ª²½Ô,H©#RMINORZ
+CODE_SMELL
+’squid:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê°Œıÿÿÿÿ8¬§—½Ô,Hª#RMINORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊµÄ³8ª²½Ô,H«#RMINORZ
+CODE_SMELL

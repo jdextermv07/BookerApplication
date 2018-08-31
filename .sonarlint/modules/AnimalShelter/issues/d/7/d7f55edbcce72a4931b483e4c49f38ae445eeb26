@@ -1,0 +1,9 @@
+
+|squid:S1192"GDefine a constant instead of duplicating this literal "Parrot" 7 times.(•№“ью€€€€HОRCRITICALZ
+CODE_SMELL
+jsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(’л±ƒш€€€€HПRMINORZ
+CODE_SMELL
+isquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(Љиљ“ю€€€€HРRMINORZ
+CODE_SMELL
+Isquid:S1643!"Use a StringBuilder instead.(Фјт HНRMINORZ
+CODE_SMELL

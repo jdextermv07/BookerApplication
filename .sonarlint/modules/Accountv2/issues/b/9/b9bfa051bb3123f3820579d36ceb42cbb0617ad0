@@ -1,0 +1,21 @@
+
+…squid:S3008"SRename this field "MIN_WITH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¬ŽúÿÿÿÿHàRMINORZ
+CODE_SMELL
+e
+squid:S106>"9Replace this use of System.out or System.err by a logger.(Ôï¯êHáRMAJORZ
+CODE_SMELL
+‡squid:S3008"URename this field "MAX_OUTBAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«½©ãûÿÿÿÿHâRMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ÐêŒýÿÿÿÿHãRMAJORZ
+CODE_SMELL
+j
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ÿÿ€°ûÿÿÿÿHäRMAJORZ
+CODE_SMELL
+‡squid:S3008"URename this field "MIN_OUTBAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðñß¬ùÿÿÿÿHåRMINORZ
+CODE_SMELL
+‡squid:S3008	"URename this field "TRANS_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÑ”ïùÿÿÿÿHæRMINORZ
+CODE_SMELL
+e
+squid:S1062"9Replace this use of System.out or System.err by a logger.(Ôï¯êHçRMAJORZ
+CODE_SMELL

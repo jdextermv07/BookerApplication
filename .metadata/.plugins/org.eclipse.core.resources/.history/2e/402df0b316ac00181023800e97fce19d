@@ -1,0 +1,9 @@
+package com.example.demo.model;
+
+public class Service {
+
+	int serviceId;
+	String serviceName;
+	String description;
+	Image images;
+}

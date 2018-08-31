@@ -1,0 +1,37 @@
+package com.example.demo.model;
+
+import javax.persistence.Entity;
+
+import com.fasterxml.jackson.annotation.JsonIdentityInfo;
+import com.fasterxml.jackson.annotation.ObjectIdGenerators.PropertyGenerator;
+
+@Entity
+@JsonIdentityInfo(generator = PropertyGenerator.class, property = "feedbackId")
+public class Feedback {
+	
+	private int feedbackId;
+	private String feedbackMessage;
+	private int customerId;
+	
+	
+	public int getCustomerId() {
+		return customerId;
+	}
+	public void setCustomerId(int customerId) {
+		this.customerId = customerId;
+	}
+	public int getFeedbackId() {
+		return feedbackId;
+	}
+	public void setFeedbackId(int feedbackId) {
+		this.feedbackId = feedbackId;
+	}
+	public String getFeedbackMessage() {
+		return feedbackMessage;
+	}
+	public void setFeedbackMessage(String feedbackMessage) {
+		this.feedbackMessage = feedbackMessage;
+	}
+	
+	
+}

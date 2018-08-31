@@ -1,0 +1,11 @@
+package com.pw.io.booker;
+
+public class BookerServiceQualifier {
+
+	
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

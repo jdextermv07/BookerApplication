@@ -1,0 +1,5 @@
+package com.pw.io.booker.repository;
+
+public interface TravelPackageInterface {
+
+}

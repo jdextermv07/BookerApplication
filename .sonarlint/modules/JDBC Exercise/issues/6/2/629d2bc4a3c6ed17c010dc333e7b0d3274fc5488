@@ -1,0 +1,22 @@
+
+`squid:S1148¡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8”½¦Ö,H¨)RMINORZVULNERABILITY
+`squid:S1148œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8«‹£Ö,Hâ(RMINORZVULNERABILITY
+`squid:S1148·"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8”½¦Ö,H©)RMINORZVULNERABILITY
+]squid:S1481m")Remove this unused "film" local variable.(×—Ğ8İ‰È¥Ö,Hš)RMINORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ööÌ©8«‹£Ö,HŞ(RMINORZ
+CODE_SMELL
+~squid:S2095C"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½8”½¦Ö,H¦)RBLOCKERZBUG
+_squid:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñœ¢Ö,HÔ(RMINORZVULNERABILITY
+_squid:S1148z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8×£æ©Ö,Hé)RMINORZVULNERABILITY
+vsquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8«‹£Ö,Hé(RBLOCKERZBUG
+squid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½8°È ¥Ö,Hˆ)RBLOCKERZBUG
+_squid:S1148T"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8«‹£Ö,Há(RMINORZVULNERABILITY
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8°È ¥Ö,H‹)RMINORZVULNERABILITY
+vsquid:S2095i"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…8°È ¥Ö,H‰)RBLOCKERZBUG
+squid:S2095±"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½8×£æ©Ö,Hç)RBLOCKERZBUG
+~squid:S2095f"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½8±¢¹£Ö,Hë(RBLOCKERZBUG
+_squid:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñœ¢Ö,HÕ(RMINORZVULNERABILITY
+_squid:S1148O"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8×£æ©Ö,Hè)RMINORZVULNERABILITY
+`squid:S1148¼"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8°È ¥Ö,HŒ)RMINORZVULNERABILITY
+vsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(² €í8ñœ¢Ö,HÓ(RBLOCKERZBUG

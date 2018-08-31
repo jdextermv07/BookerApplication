@@ -1,0 +1,34 @@
+package com.pw.io.booker.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Service;
+
+import com.pw.io.booker.model.TravelItem;
+import com.pw.io.booker.repository.list.TravelItemRepositoryList;
+
+@Service ("tis")
+
+public class TravelItemService {
+	
+	private TravelItemRepositoryList travelItemRepositoryList;
+	
+	
+	public TravelItemService(TravelItemRepositoryList travelItemRepositoryList) {
+		super();
+		this.travelItemRepositoryList = travelItemRepositoryList;
+	}
+
+
+	@Autowired
+	public void setTravelItemRepositoryList(@Qualifier("tirl")TravelItemRepositoryList travelItemRepositoryList) {
+		this.travelItemRepositoryList = travelItemRepositoryList;
+	}
+
+
+
+	public TravelItem findById(int travelId) {
+		return travelItemRepositoryList.find(travelId);
+	}
+
+}

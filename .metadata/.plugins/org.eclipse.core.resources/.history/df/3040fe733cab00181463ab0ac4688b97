@@ -1,0 +1,9 @@
+package com.pw.io.booker.mapper;
+
+public class TravelPackageRowMapper implements RowMapper<TravelPackage> {
+	
+	@Override
+	
+	
+
+}

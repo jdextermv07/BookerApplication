@@ -1,0 +1,9 @@
+
+‚squid:UselessImportCheck"<Remove this unused import 'javax.transaction.Transactional'.(ûÒçÑúÿÿÿÿ8¯€ïÆØ,Hš@RMINORZ
+CODE_SMELL
+qsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¢¤°¨Ø,H™@RMINORZ
+CODE_SMELL
+esquid:S1068",Remove this unused "feedBack" private field.(ÚÒŒÍùÿÿÿÿ8Ú­ðÅØ,H˜@RMAJORZ
+CODE_SMELL
+qsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¢¤°¨Ø,H›@RMINORZ
+CODE_SMELL

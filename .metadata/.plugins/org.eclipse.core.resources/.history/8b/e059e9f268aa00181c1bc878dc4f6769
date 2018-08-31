@@ -1,0 +1,26 @@
+package com.pw.io.config;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import com.pw.io.booker.repository.list.ReservationRepositoryList;
+import com.pw.io.booker.repository.list.TravelPackageRepositoryList;
+import com.pw.io.booker.service.ReservationService;
+import com.pw.io.booker.service.TravelPackageService;
+
+@Configuration
+public class BookerConfig {
+
+	@Bean
+	public TravelPackageService travelPackageService (TravelPackageRepositoryList travelPackageRepositoryList) {
+		return new TravelPackageService(travelPackageRepositoryList);
+	}
+	
+	@Bean
+	public ReservationService reservationService (ReservationRepositoryList reservationRepositoryList, TravelPackageService travelPackageService) {
+		return new ReservationService(reservationRepositoryList, travelPackageService);
+	}
+	
+	
+	
+}

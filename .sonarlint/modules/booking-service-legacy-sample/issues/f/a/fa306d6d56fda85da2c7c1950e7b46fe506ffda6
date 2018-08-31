@@ -1,0 +1,6 @@
+
+’squid:S1450"`Remove the "bookerServiceUtil" field and declare it as a local variable in the relevant methods.(Ö»»×şÿÿÿÿHÀ0RMINORZ
+CODE_SMELL
+j
+squid:S106%"9Replace this use of System.out or System.err by a logger.(şÒãûÿÿÿÿHÁ0RMAJORZ
+CODE_SMELL

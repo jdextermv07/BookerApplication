@@ -1,0 +1,7 @@
+package com.pw.io.booker.mapper;
+
+
+public interface RowMapper {
+
+
+}

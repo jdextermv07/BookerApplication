@@ -1,0 +1,9 @@
+package com.pw.io.booker.repository.impl.jdbc;
+
+public class TravelPackageRowMapper implements RowMapper<TravelPackage> {
+	
+	
+	
+	
+
+}

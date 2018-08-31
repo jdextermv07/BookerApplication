@@ -1,0 +1,21 @@
+package com.example.demo.service;
+
+import com.example.demo.repository.ImageRepository;
+import com.example.demo.repository.ServiceRepository;
+
+public class ServiceService {
+	
+	private ServiceRepository serviceRepository;
+	private ImageRepository imageRepository;
+	
+	public ServiceService(ServiceRepository serviceRepository, ImageRepository imageRepository) {
+		super();
+		this.serviceRepository = serviceRepository;
+		this.imageRepository = imageRepository;
+	}
+
+	
+	
+	
+
+}

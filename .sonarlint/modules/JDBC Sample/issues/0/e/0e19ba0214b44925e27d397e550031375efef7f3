@@ -1,0 +1,18 @@
+
+_squid:S1148g"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ç¦¸ˆÖ,H(RMINORZVULNERABILITY
+_squid:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8—Ï×‡Ö,Hœ(RMINORZVULNERABILITY
+jsquid:S1135f"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Ç¦¸ˆÖ,H (RINFOZ
+CODE_SMELL
+vsquid:S2095?"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…8Ç¦¸ˆÖ,H˜(RBLOCKERZBUG
+_squid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8—Ï×‡Ö,H(RMINORZVULNERABILITY
+_squid:S1148l"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ç¦¸ˆÖ,H•(RMINORZVULNERABILITY
+~squid:S2095^"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½8Ç¦¸ˆÖ,H™(RBLOCKERZBUG
+_squid:S1148O"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ç¦¸ˆÖ,Hš(RMINORZVULNERABILITY
+jsquid:S1135I"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Ç¦¸ˆÖ,H–(RINFOZ
+CODE_SMELL
+_squid:S1148J"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ç¦¸ˆÖ,HŸ(RMINORZVULNERABILITY
+vsquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8—Ï×‡Ö,H—(RBLOCKERZBUG
+vsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(² €í8—Ï×‡Ö,H”(RBLOCKERZBUG
+~squid:S2095<"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½8Ç¦¸ˆÖ,H“(RBLOCKERZBUG
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Óú8—Ï×‡Ö,H›(RMINORZ
+CODE_SMELL

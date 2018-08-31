@@ -1,0 +1,8 @@
+
+œsquid:UselessImportCheck"VRemove this unused import 'com.pw.io.booker.repository.list.TravelItemRepositoryList'.(ƒÌäÿÿÿÿÿ8¥å¼ÔÖ,H½0RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(şÒãûÿÿÿÿ8äè„ÔÖ,H¾0RMAJORZ
+CODE_SMELL
+šsquid:UselessImportCheck"YRemove this unused import 'com.pw.io.booker.repository.list.TravelPackageRepositoryList'.(“Ã§Î8¥å¼ÔÖ,H¿0RMINORZ
+CODE_SMELL

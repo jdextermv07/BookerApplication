@@ -1,0 +1,17 @@
+
+„squid:UselessImportCheck">Remove this unused import 'com.pw.io.booker.model.TravelItem'.(Éº¾×ûÿÿÿÿ8ÚØíú×,HCRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(¥ğÜ©ÿÿÿÿÿ8„òóØ,H‚CRMAJORZ
+CODE_SMELL
+Œsquid:UselessImportCheck"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8é„ú×,HƒCRMINORZ
+CODE_SMELL
+isquid:S1068"5Remove this unused "travelItemService" private field.(òòë8ÚØíú×,H„CRMAJORZ
+CODE_SMELL
+—squid:UselessImportCheck"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶êøÿÿÿÿ8ÚØíú×,H…CRMINORZ
+CODE_SMELL
+˜squid:UselessImportCheck"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™Ğÿûÿÿÿÿ8é„ú×,H†CRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(úïë²8Ÿ‰¡Ø,H‡CRMAJORZ
+CODE_SMELL
+”squid:UselessImportCheck"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ë8ÚØíú×,HˆCRMINORZ
+CODE_SMELL

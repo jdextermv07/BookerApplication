@@ -1,0 +1,52 @@
+package com.pw.io.booker.repository.impl.jdbc;
+
+import java.util.List;
+
+import javax.sql.DataSource;
+
+import org.springframework.context.annotation.Primary;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.stereotype.Repository;
+
+import com.pw.io.booker.model.TravelPackage;
+import com.pw.io.booker.repository.TravelPackageRepository;
+
+@Repository
+@Primary
+public class TravelPackageRepositorySQL implements TravelPackageRepository {
+	private DataSource dataSource;
+	private JdbcTemplate jdbcTemplate;
+
+	
+	
+
+	public TravelPackageRepositorySQL(DataSource dataSource, JdbcTemplate jdbcTemplate) {
+		super();
+		this.dataSource = dataSource;
+		this.jdbcTemplate = new JdbcTemplate(dataSource);
+	}
+
+	@Override
+	public List<TravelPackage> findAll() {
+		return jdbcTemplate.query("select * from travel_package", new TravelPackageRowMapper());
+	}
+
+	@Override
+	public TravelPackage findById(int id) {
+		return jdbcTemplate.queryForObject("select * from travel_package where travel_package_id = ?", new TravelPackageRowMapper(), id);
+	}
+
+	@Override
+	public TravelPackage save(TravelPackage model) {
+		jdbcTemplate.update("insert into travel_package values (?, ?, ?)", model.getTravelPackageId(),
+				model.getDescription(), model.getPackageName());
+		return model;
+	}
+
+	@Override
+	public void delete(TravelPackage model) {
+		jdbcTemplate.update("delete from travel_package where travel_package_id = ?", model.getTravelPackageId());
+
+	}
+
+}

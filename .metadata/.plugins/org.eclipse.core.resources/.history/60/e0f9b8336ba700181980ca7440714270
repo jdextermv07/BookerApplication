@@ -1,0 +1,7 @@
+package com.pw.io.booker;
+
+public @interface ComponentsScan {
+
+	String value();
+
+}

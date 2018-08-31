@@ -1,0 +1,9 @@
+package com.example.demo.model;
+
+public class Feedback {
+
+	private int feedbackId;
+	private String feedback;
+	private float rate;
+	private Reservation reservation;
+}

@@ -1,0 +1,18 @@
+package com.pw.io.booker.service;
+
+import com.pw.io.booker.model.TravelItem;
+import com.pw.io.booker.repository.list.TravelItemRepositoryList;
+
+public class TravelItemService {
+	
+	private TravelItemRepositoryList travelItemRepositoryList;
+	
+	public TravelItemService() {
+		travelItemRepositoryList = new TravelItemRepositoryList();
+	}
+	
+	public TravelItem findById(int travelId) {
+		return travelItemRepositoryList.find(travelId);
+	}
+
+}

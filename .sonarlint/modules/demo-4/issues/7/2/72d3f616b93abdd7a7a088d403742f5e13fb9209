@@ -1,0 +1,9 @@
+
+„squid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8×º‰¦Ø,H@RMAJORZ
+CODE_SMELL
+‘squid:UselessImportCheck
+"KRemove this unused import 'com.example.demo.repository.FeedbackRepository'.(ÓÀ‰Éüÿÿÿÿ8¹ïÆÆØ,H@RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(¹• Úûÿÿÿÿ8×º‰¦Ø,H@RMAJORZ
+CODE_SMELL
+bsquid:S3655"7Call "Optional#isPresent()" before accessing the value.(žÿâ‹øÿÿÿÿHŽ@RMAJORZBUG
