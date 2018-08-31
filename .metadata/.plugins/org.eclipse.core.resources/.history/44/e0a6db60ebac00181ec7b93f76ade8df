@@ -50,9 +50,7 @@ public class TravelPackageService {
 				for(Image image : service.getImages()) {
 					image.setService(service);
 					imageService.addImages(image);
-				}
-				for(Image image1 : travelPackage.getImages()) {
-					image1.setTravelPackage(travelPackage);
+					image.setTravelPackage(travelPackage);
 					imageService.addImages(travelPackage.getImages());
 				}
 			}

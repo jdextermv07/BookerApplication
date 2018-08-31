@@ -29,19 +29,6 @@ public class Image {
 	@JoinColumn(name = "serviceId")
 	private Service service;
 	
-	
-	public TravelPackage getTravelPackage() {
-		return travelPackage;
-	}
-	public void setTravelPackage(TravelPackage travelPackage) {
-		this.travelPackage = travelPackage;
-	}
-	public Service getService() {
-		return service;
-	}
-	public void setService(Service service) {
-		this.service = service;
-	}
 	public int getImageId() {
 		return imageId;
 	}

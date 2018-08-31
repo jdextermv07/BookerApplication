@@ -46,14 +46,12 @@ public class TravelPackageService {
 			for (com.example.demo.model.Service service : travelPackage.getAvailableServiceList()) {
 				service.setTravelPackage(travelPackage);
 				serviceService.addServices(service);
-				
+				imageService.addImages(travelPackage.getImages());
 				for(Image image : service.getImages()) {
 					image.setService(service);
 					imageService.addImages(image);
-				}
-				for(Image image1 : travelPackage.getImages()) {
-					image1.setTravelPackage(travelPackage);
-					imageService.addImages(travelPackage.getImages());
+					
+					
 				}
 			}
 			travelPackageRepository.save(travelPackage);

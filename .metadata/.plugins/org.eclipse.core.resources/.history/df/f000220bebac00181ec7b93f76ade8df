@@ -42,18 +42,13 @@ public class TravelPackageService {
 	public List<TravelPackage> addTravelPackageList(List<TravelPackage> travelPackageList) {
 		List<TravelPackage> listTravelPackage = new ArrayList<TravelPackage>();
 		for (TravelPackage travelPackage : travelPackageList) {	
-			
+			imageService.addImages(travelPackage.getImages());
 			for (com.example.demo.model.Service service : travelPackage.getAvailableServiceList()) {
-				service.setTravelPackage(travelPackage);
+				
 				serviceService.addServices(service);
 				
 				for(Image image : service.getImages()) {
-					image.setService(service);
 					imageService.addImages(image);
-				}
-				for(Image image1 : travelPackage.getImages()) {
-					image1.setTravelPackage(travelPackage);
-					imageService.addImages(travelPackage.getImages());
 				}
 			}
 			travelPackageRepository.save(travelPackage);

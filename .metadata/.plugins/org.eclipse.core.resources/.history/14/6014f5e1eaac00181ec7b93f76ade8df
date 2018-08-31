@@ -33,12 +33,6 @@ public class Service {
 	
 	
 	
-	public TravelPackage getTravelPackage() {
-		return travelPackage;
-	}
-	public void setTravelPackage(TravelPackage travelPackage) {
-		this.travelPackage = travelPackage;
-	}
 	public int getServiceId() {
 		return serviceId;
 	}
