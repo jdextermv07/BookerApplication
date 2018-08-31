@@ -8,18 +8,27 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
 
+import com.fasterxml.jackson.annotation.JsonIdentityInfo;
+import com.fasterxml.jackson.annotation.ObjectIdGenerators.PropertyGenerator;
+
 @Entity
+@JsonIdentityInfo(generator = PropertyGenerator.class, property = "travelpackageId")
 public class TravelPackage {
 
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private int travelpackageId;
 	private String packageName;
+	
 	@OneToMany(mappedBy = "travelPackage")
 	private List<Service> availableServiceList;
+	
 	@OneToMany(mappedBy = "travelPackage")
 	private List<Image> images;
+	
 	private String description;
+	
+	
 	public int getTravelpackageId() {
 		return travelpackageId;
 	}

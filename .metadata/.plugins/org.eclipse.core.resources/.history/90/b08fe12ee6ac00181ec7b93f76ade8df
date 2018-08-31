@@ -1,0 +1,38 @@
+package com.example.demo.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.example.demo.model.Service;
+import com.example.demo.model.TravelPackage;
+import com.example.demo.repository.ImageRepository;
+import com.example.demo.repository.ServiceRepository;
+
+@org.springframework.stereotype.Service
+public class ServiceService {
+
+	private ServiceRepository serviceRepository;
+	private ImageService imageService;
+
+	public ServiceService(ServiceRepository serviceRepository, ImageService imageService) {
+		super();
+		this.serviceRepository = serviceRepository;
+		this.imageService = imageService;
+	}
+
+	public List<Service> addService(List<TravelPackage> travelPackageList) {
+		List<Service> listService = new ArrayList<Service>();
+		for (TravelPackage value : travelPackageList) {
+			for (Service value1 : value.getAvailableServiceList()) {
+				imageService.addImages(value1.getImages());
+				serviceRepository.save(value1);
+				listService.add(value1);
+			}
+
+		}
+
+		return listService;
+
+	}
+
+}

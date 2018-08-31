@@ -7,9 +7,12 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 
+import com.fasterxml.jackson.annotation.JsonIdentityInfo;
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.ObjectIdGenerators.PropertyGenerator;
 
 @Entity
+@JsonIdentityInfo(generator = PropertyGenerator.class, property = "imageId")
 public class Image {
 
 	@Id
@@ -17,11 +20,14 @@ public class Image {
 	private int imageId;
 	private String description;
 	private String imageUrl;
-	@JsonIgnore
+	
 	@ManyToOne
 	@JoinColumn(name= "travelPackageid")
 	private TravelPackage travelPackage;
 	
+	@ManyToOne
+	@JoinColumn(name = "serviceId")
+	private Service service;
 	
 	public int getImageId() {
 		return imageId;

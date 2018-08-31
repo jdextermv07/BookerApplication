@@ -10,9 +10,12 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 
+import com.fasterxml.jackson.annotation.JsonIdentityInfo;
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.ObjectIdGenerators.PropertyGenerator;
 
 @Entity
+@JsonIdentityInfo(generator = PropertyGenerator.class, property = "serviceId")
 public class Service {
 
 	@Id
@@ -20,9 +23,8 @@ public class Service {
 	private int serviceId;
 	private String serviceName;
 	private String description;
-	@OneToMany
+	@OneToMany(mappedBy= "service")
 	private List<Image> images;
-	@JsonIgnore
 	@ManyToOne
 	@JoinColumn(name= "travelPackageid")
 	private TravelPackage travelPackage;

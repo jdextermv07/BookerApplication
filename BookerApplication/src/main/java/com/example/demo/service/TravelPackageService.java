@@ -7,6 +7,7 @@ import javax.transaction.Transactional;
 
 import org.springframework.stereotype.Service;
 
+import com.example.demo.model.Image;
 import com.example.demo.model.TravelPackage;
 import com.example.demo.repository.TravelPackageRepository;
 
@@ -17,9 +18,14 @@ public class TravelPackageService {
 	private ServiceService serviceService;
 	private ImageService imageService;
 
-	public TravelPackageService(TravelPackageRepository travelPackageService) {
+	
+
+	public TravelPackageService(TravelPackageRepository travelPackageRepository, ServiceService serviceService,
+			ImageService imageService) {
 		super();
-		this.travelPackageRepository = travelPackageService;
+		this.travelPackageRepository = travelPackageRepository;
+		this.serviceService = serviceService;
+		this.imageService = imageService;
 	}
 
 	// travel packages
@@ -32,14 +38,21 @@ public class TravelPackageService {
 		return listTravelPackage;
 	}
 
+	@Transactional
 	public List<TravelPackage> addTravelPackageList(List<TravelPackage> travelPackageList) {
 		List<TravelPackage> listTravelPackage = new ArrayList<TravelPackage>();
-		for (TravelPackage value : travelPackageList) {
-			
-			travelPackageRepository.save(value);
-			listTravelPackage.add(value);
+		for (TravelPackage travelPackage : travelPackageList) {	
+			imageService.addImages(travelPackage.getImages());
+			for (com.example.demo.model.Service service : travelPackage.getAvailableServiceList()) {
+				serviceService.addServices(service);
+				for(Image image : service.getImages()) {
+					imageService.addImages(image);
+				}
+			}
+			travelPackageRepository.save(travelPackage);
+			listTravelPackage.add(travelPackage);
 		}
-		return listTravelPackage;
+	return listTravelPackage;
 	}
 
 	@Transactional
